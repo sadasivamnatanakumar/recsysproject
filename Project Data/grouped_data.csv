@@ -1,0 +1,1047 @@
+drugName,condition,rating,usefulCount,negDrugNo,EaseOfUse,Effective,Reviews,Price,Satisfaction
+Acebutolol,High Blood Pressure,9.5,13.0,-44.0,4.32,3.75,14.5,-24.49,4.2
+Acetaminophen,Muscle Pain,9.5,29.0,-76.0,3.75,3.47,5.45,-14.76,3.31
+Acetaminophen,Pain,7.761904761904762,11.666666666666666,-76.0,3.75,3.47,5.45,-14.76,3.31
+Acetaminophen,Sciatica,5.5,10.0,-76.0,3.75,3.47,5.45,-14.76,3.31
+Acetaminophen,eve,9.6,11.6,-76.0,3.75,3.47,5.45,-14.76,3.31
+Acetazolamide,Edema,6.0,16.0,-60.0,3.34,3.6,104.0,-70.49,2.89
+Acetazolamide,Epilepsy,8.5,16.5,-60.0,3.34,3.6,104.0,-70.49,2.89
+Acetazolamide,Glaucoma,5.454545454545454,11.272727272727273,-60.0,3.3399999999999994,3.6,104.0,-70.49,2.89
+Acetazolamide,Hydrocephalus,9.0,3.0,-60.0,3.34,3.6,104.0,-70.49,2.89
+Acetazolamide,Mountain Sickness / Altitude Sickness,9.166666666666666,34.333333333333336,-60.0,3.34,3.6,104.0,-70.49,2.89
+Acetazolamide,Pseudotumor Cerebri,6.7272727272727275,15.181818181818182,-60.0,3.3399999999999994,3.6,104.0,-70.49,2.89
+Acetazolamide,Seizure Prevention,6.5,1.5,-60.0,3.34,3.6,104.0,-70.49,2.89
+Acyclovir,Cold Sores,8.32,11.2,-2.0,3.69,3.84,20.61,-287.55,3.64
+Acyclovir,Herpes Simplex,8.23913043478261,29.956521739130434,-2.0,3.6900000000000004,3.84,20.61,-287.55,3.64
+Acyclovir,"Herpes Simplex, Mucocutaneous/Immunocompetent Host",5.0,1.0,-2.0,3.69,3.84,20.61,-287.55,3.64
+Acyclovir,"Herpes Simplex, Mucocutaneous/Immunocompromised Host",8.0,11.0,-2.0,3.69,3.84,20.61,-287.55,3.64
+Acyclovir,"Herpes Simplex, Suppression",9.307692307692308,35.46153846153846,-2.0,3.69,3.8400000000000003,20.61,-287.55,3.64
+Acyclovir,Herpes Zoste,8.5,18.833333333333332,-2.0,3.69,3.84,20.61,-287.55,3.64
+Acyclovir,Mononucleosis,10.0,13.5,-2.0,3.69,3.84,20.61,-287.55,3.64
+Acyclovir,Not Listed / Othe,8.5,5.0,-2.0,3.69,3.84,20.61,-287.55,3.64
+Amikacin,Not Listed / Othe,10.0,7.0,-68.0,1.0,1.0,4.0,-147.99,1.0
+Amikacin,Urinary Tract Infection,1.0,5.0,-68.0,1.0,1.0,4.0,-147.99,1.0
+Amiloride,Edema,3.0,2.0,-54.0,2.66,2.5,6.5,-172.39,2.16
+Amiloride,High Blood Pressure,1.0,9.0,-54.0,2.66,2.5,6.5,-172.39,2.16
+Amitriptyline,Anxiety and Stress,7.454545454545454,71.42424242424242,-240.0,4.12,3.23,514.54,-118.66,2.94
+Amitriptyline,Burning Mouth Syndrome,7.5,47.5,-240.0,4.12,3.23,514.54,-118.66,2.94
+Amitriptyline,Chronic Myofascial Pain,10.0,3.0,-240.0,4.12,3.23,514.54,-118.66,2.94
+Amitriptyline,Cyclic Vomiting Syndrome,9.125,17.9375,-240.0,4.12,3.23,514.54,-118.66,2.94
+Amitriptyline,Depression,8.552631578947368,63.3421052631579,-240.0,4.12,3.23,514.54,-118.66,2.94
+Amitriptyline,Dysautonomia,8.0,8.0,-240.0,4.12,3.23,514.54,-118.66,2.94
+Amitriptyline,Hyperhidrosis,10.0,36.0,-240.0,4.12,3.23,514.54,-118.66,2.94
+Amitriptyline,Insomnia,7.110091743119266,59.14678899082569,-240.0,4.12,3.23,514.54,-118.66000000000001,2.94
+Amitriptyline,Interstitial Cystitis,8.6,33.34285714285714,-240.0,4.12,3.23,514.54,-118.65999999999998,2.94
+Amitriptyline,Irritable Bowel Syndrome,8.74468085106383,51.95744680851064,-240.0,4.12,3.23,514.54,-118.66,2.94
+Amitriptyline,Migraine Prevention,7.845744680851064,32.8936170212766,-240.0,4.12,3.23,514.54,-118.66,2.94
+Amitriptyline,Neurotic Depression,10.0,2.0,-240.0,4.12,3.23,514.54,-118.66,2.94
+Amitriptyline,Not Listed / Othe,9.0,1.5,-240.0,4.12,3.23,514.54,-118.66,2.94
+Amitriptyline,Pain,8.125,85.94642857142857,-240.0,4.12,3.23,514.54,-118.66,2.94
+Amitriptyline,Persistent Depressive Disorde,9.0,53.0,-240.0,4.12,3.23,514.54,-118.66,2.94
+Amitriptyline,Post Traumatic Stress Disorde,9.5,17.166666666666668,-240.0,4.12,3.23,514.54,-118.66000000000001,2.94
+Amitriptyline,Pudendal Neuralgia,7.0,7.0,-240.0,4.12,3.23,514.54,-118.66000000000001,2.94
+Amitriptyline,Reflex Sympathetic Dystrophy Syndrome,4.333333333333333,5.333333333333333,-240.0,4.12,3.23,514.54,-118.66000000000001,2.94
+Amitriptyline,Urinary Incontinence,10.0,35.0,-240.0,4.12,3.23,514.54,-118.66,2.94
+Amitriptyline,Vulvodynia,7.285714285714286,20.714285714285715,-240.0,4.12,3.23,514.54,-118.66,2.94
+Amitriptyline,ibromyalgia,6.6923076923076925,40.76923076923077,-240.0,4.12,3.23,514.54,-118.66,2.94
+Amlodipine,Coronary Artery Disease,1.0,28.0,-108.0,4.12,3.68,164.56,-158.62,3.19
+Amlodipine,Heart Failure,7.5,25.5,-108.0,4.12,3.68,164.56,-158.62,3.19
+Amlodipine,High Blood Pressure,4.875816993464053,65.75816993464052,-108.0,4.12,3.6800000000000006,164.56,-158.62,3.19
+Amlodipine,Migraine Prevention,8.631578947368421,31.63157894736842,-108.0,4.12,3.68,164.56,-158.62,3.19
+Amlodipine,Raynaud's Syndrome,6.5,57.75,-108.0,4.12,3.68,164.56,-158.62,3.19
+Amoxapine,Depression,9.5,2.5,-100.0,5.0,4.5,3.0,-47.39,4.25
+Ampicillin,Meningitis,10.0,14.0,-24.0,3.06,3.0,4.69,-47.27,2.5
+Ampicillin,Urinary Tract Infection,10.0,40.0,-24.0,3.06,3.0,4.69,-47.27,2.5
+Aripiprazole,Agitated State,6.0588235294117645,26.470588235294116,-98.0,3.7,2.85,42.5,-826.99,2.76
+Aripiprazole,Autism,6.5,56.214285714285715,-98.0,3.7,2.85,42.5,-826.99,2.7600000000000002
+Aripiprazole,Bipolar Disorde,5.734939759036145,22.96987951807229,-98.0,3.7,2.85,42.5,-826.99,2.76
+Aripiprazole,Borderline Personality Disorde,6.857142857142857,13.714285714285714,-98.0,3.7,2.85,42.5,-826.99,2.7600000000000002
+Aripiprazole,Depression,6.973509933774834,67.00662251655629,-98.0,3.7,2.85,42.5,-826.99,2.76
+Aripiprazole,Major Depressive Disorde,5.863636363636363,12.522727272727273,-98.0,3.7,2.85,42.5,-826.9899999999999,2.76
+Aripiprazole,Not Listed / Othe,9.0,3.0,-98.0,3.7,2.85,42.5,-826.99,2.76
+Aripiprazole,Obsessive Compulsive Disorde,7.0,23.181818181818183,-98.0,3.7,2.85,42.5,-826.9899999999999,2.76
+Aripiprazole,Post Traumatic Stress Disorde,6.5,7.75,-98.0,3.7,2.85,42.5,-826.99,2.76
+Aripiprazole,Schizoaffective Disorde,7.125,19.75,-98.0,3.7,2.85,42.5,-826.99,2.76
+Aripiprazole,Schizophrenia,6.888888888888889,22.08888888888889,-98.0,3.7,2.85,42.5,-826.99,2.76
+Aripiprazole,Tourette's Syndrome,6.857142857142857,12.428571428571429,-98.0,3.7,2.85,42.5,-826.99,2.7600000000000002
+Armodafinil,ADHD,7.375,29.0,-6.0,4.18,3.95,182.5,-656.09,3.62
+Armodafinil,Bipolar Disorde,9.555555555555555,36.888888888888886,-6.0,4.18,3.9500000000000006,182.5,-656.09,3.6199999999999997
+Armodafinil,Chronic Fatigue Syndrome,7.461538461538462,43.96153846153846,-6.0,4.18,3.95,182.5,-656.09,3.62
+Armodafinil,Depression,6.846153846153846,28.846153846153847,-6.0,4.18,3.95,182.5,-656.09,3.62
+Armodafinil,Hypersomnia,7.0,15.157894736842104,-6.0,4.18,3.9499999999999997,182.5,-656.09,3.62
+Armodafinil,Narcolepsy,6.6231884057971016,18.07246376811594,-6.0,4.18,3.95,182.5,-656.09,3.62
+Armodafinil,Not Listed / Othe,9.0,2.5,-6.0,4.18,3.95,182.5,-656.09,3.62
+Armodafinil,Obstructive Sleep Apnea/Hypopnea Syndrome,8.5,23.125,-6.0,4.18,3.9500000000000006,182.5,-656.09,3.6199999999999997
+Armodafinil,Shift Work Sleep Disorde,7.523809523809524,22.857142857142858,-6.0,4.18,3.95,182.5,-656.09,3.6199999999999997
+Armodafinil,ibromyalgia,8.142857142857142,49.42857142857143,-6.0,4.18,3.95,182.5,-656.09,3.62
+Aspirin,Angina,10.0,11.0,-120.0,3.92,3.72,12.1,-12.11,3.61
+Aspirin,Back Pain,7.6,16.2,-120.0,3.9200000000000004,3.72,12.1,-12.11,3.6100000000000003
+Aspirin,Heart Attack,9.0,20.0,-120.0,3.92,3.72,12.1,-12.11,3.61
+Aspirin,Osteoarthritis,8.0,1.0,-120.0,3.92,3.72,12.1,-12.11,3.61
+Aspirin,Pain,7.8,10.0,-120.0,3.9200000000000004,3.72,12.1,-12.11,3.6100000000000003
+Aspirin,Rheumatoid Arthritis,10.0,11.0,-120.0,3.92,3.72,12.1,-12.11,3.61
+Aspirin,Sciatica,7.5,31.0,-120.0,3.92,3.72,12.1,-12.11,3.61
+Aspirin,Thromboembolic Stroke Prophylaxis,9.0,15.0,-120.0,3.92,3.72,12.1,-12.11,3.61
+Aspirin,Transient Ischemic Attack,10.0,10.0,-120.0,3.92,3.72,12.1,-12.11,3.61
+Aspirin,eve,10.0,15.0,-120.0,3.92,3.72,12.1,-12.11,3.61
+Atenolol,Alcohol Withdrawal,7.0,13.0,-66.0,4.5,3.83,238.17,-31.6,3.26
+Atenolol,Angina,9.0,18.0,-66.0,4.5,3.83,238.17,-31.6,3.26
+Atenolol,Anxiety,7.578947368421052,54.73684210526316,-66.0,4.5,3.8299999999999996,238.17,-31.599999999999998,3.26
+Atenolol,High Blood Pressure,6.693548387096774,36.5,-66.0,4.5,3.83,238.17,-31.6,3.26
+Atenolol,Migraine Prevention,8.846153846153847,28.923076923076923,-66.0,4.5,3.83,238.17000000000002,-31.6,3.26
+Atenolol,Mitral Valve Prolapse,9.75,23.75,-66.0,4.5,3.83,238.17,-31.6,3.26
+Atenolol,Not Listed / Othe,8.333333333333334,24.333333333333332,-66.0,4.5,3.83,238.17,-31.600000000000005,3.26
+Atenolol,Supraventricular Tachycardia,7.8,12.8,-66.0,4.5,3.8299999999999996,238.17,-31.6,3.2599999999999993
+Atenolol,Ventricular Tachycardia,8.166666666666666,25.166666666666668,-66.0,4.5,3.83,238.17,-31.600000000000005,3.26
+Atorvastatin,High Cholesterol,5.0131578947368425,69.65789473684211,-70.0,3.82,3.36,577.5,-249.99,2.5
+Atorvastatin,"High Cholesterol, Familial Heterozygous",7.333333333333333,64.0,-70.0,3.82,3.36,577.5,-249.99,2.5
+Atorvastatin,"High Cholesterol, Familial Homozygous",4.5,43.5,-70.0,3.82,3.36,577.5,-249.99,2.5
+Atorvastatin,Prevention of Cardiovascular Disease,3.25,43.0,-70.0,3.82,3.36,577.5,-249.99,2.5
+Azithromycin,Bacterial Endocarditis Prevention,5.0,1.0,-48.0,4.01,3.21,267.58,-110.4,2.35
+Azithromycin,Bacterial Infection,5.454545454545454,3.727272727272727,-48.0,4.01,3.2100000000000004,267.58,-110.4,2.35
+Azithromycin,Bronchitis,6.49,24.64,-48.0,4.01,3.21,267.58,-110.4,2.35
+Azithromycin,"COPD, Acute",8.0,9.5,-48.0,4.01,3.21,267.58,-110.4,2.35
+Azithromycin,Chlamydia Infection,7.6991525423728815,7.677966101694915,-48.0,4.01,3.21,267.58,-110.4,2.35
+Azithromycin,"Conjunctivitis, Bacterial",4.75,10.0,-48.0,4.01,3.21,267.58,-110.4,2.35
+Azithromycin,Cystic Fibrosis,9.0,2.0,-48.0,4.01,3.21,267.58,-110.4,2.35
+Azithromycin,"Gonococcal Infection, Uncomplicated",10.0,1.0,-48.0,4.01,3.21,267.58,-110.4,2.35
+Azithromycin,"Mycobacterium avium-intracellulare, Treatment",7.0,14.0,-48.0,4.01,3.21,267.58,-110.4,2.35
+Azithromycin,Not Listed / Othe,7.5,2.0,-48.0,4.01,3.21,267.58,-110.4,2.35
+Azithromycin,Otitis Media,6.333333333333333,11.0,-48.0,4.01,3.2099999999999995,267.58,-110.40000000000002,2.35
+Azithromycin,Pharyngitis,8.75,3.0,-48.0,4.01,3.21,267.58,-110.4,2.35
+Azithromycin,Pneumonia,6.090909090909091,17.272727272727273,-48.0,4.01,3.2100000000000004,267.58,-110.4,2.35
+Azithromycin,STD Prophylaxis,3.0,1.0,-48.0,4.01,3.21,267.58,-110.4,2.35
+Azithromycin,Sinusitis,7.173333333333333,24.866666666666667,-48.0,4.01,3.21,267.58,-110.4,2.35
+Azithromycin,Skin or Soft Tissue Infection,7.0,9.25,-48.0,4.01,3.21,267.58,-110.4,2.35
+Azithromycin,Tonsillitis/Pharyngitis,6.414634146341464,18.70731707317073,-48.0,4.01,3.2099999999999995,267.58,-110.40000000000002,2.35
+Azithromycin,Upper Respiratory Tract Infection,6.878787878787879,23.848484848484848,-48.0,4.01,3.21,267.58,-110.4,2.35
+Benazepril,High Blood Pressure,6.555555555555555,15.555555555555555,-42.0,4.08,3.75,57.0,-94.99,3.13
+Benazepril,Left Ventricular Dysfunction,8.0,18.0,-42.0,4.08,3.75,57.0,-94.99,3.13
+Betamethasone,Atopic Dermatitis,8.333333333333334,6.333333333333333,-44.0,4.32,4.03,15.47,-66.84,3.86
+Betamethasone,Dermatitis,9.6,13.4,-44.0,4.32,4.03,15.470000000000002,-66.84,3.8600000000000003
+Betamethasone,Dermatological Disorders,9.333333333333334,27.666666666666668,-44.0,4.32,4.03,15.470000000000002,-66.84,3.8600000000000003
+Betamethasone,Inflammatory Conditions,9.0,3.0,-44.0,4.32,4.03,15.47,-66.84,3.86
+Betamethasone,Lichen Sclerosus,9.0,1.0,-44.0,4.32,4.03,15.47,-66.84,3.86
+Bisoprolol,Heart Failure,9.0,20.0,-64.0,4.18,3.53,51.5,-32.08,3.1
+Bisoprolol,High Blood Pressure,9.4,49.8,-64.0,4.18,3.53,51.5,-32.08,3.1
+Bisoprolol,Premature Ventricular Depolarizations,9.0,56.0,-64.0,4.18,3.53,51.5,-32.08,3.1
+Bisoprolol,Supraventricular Tachycardia,4.6,25.6,-64.0,4.18,3.53,51.5,-32.08,3.1
+Bumetanide,Edema,7.333333333333333,9.666666666666666,-42.0,3.9500000000000006,3.41,22.67,-66.99,3.18
+Capecitabine,Breast Cance,5.333333333333333,9.0,-14.0,4.14,3.75,83.0,-5829.19,3.68
+Capecitabine,"Breast Cancer, Metastatic",6.125,22.875,-14.0,4.14,3.75,83.0,-5829.19,3.68
+Capecitabine,Colorectal Cance,8.6,39.0,-14.0,4.14,3.75,83.0,-5829.19,3.6800000000000006
+Capecitabine,Stomach Cance,10.0,12.0,-14.0,4.14,3.75,83.0,-5829.19,3.68
+Captopril,High Blood Pressure,9.333333333333334,9.333333333333334,-28.0,3.7099999999999995,3.28,7.5,-40.49,3.18
+Carvedilol,Angina,5.5,4.0,-46.0,3.64,3.01,199.5,-173.99,2.55
+Carvedilol,Atrial Fibrillation,4.555555555555555,17.444444444444443,-46.0,3.6399999999999997,3.01,199.5,-173.99,2.55
+Carvedilol,Heart Failure,9.333333333333334,37.476190476190474,-46.0,3.6399999999999997,3.01,199.5,-173.99,2.55
+Carvedilol,High Blood Pressure,3.8214285714285716,52.357142857142854,-46.0,3.64,3.0100000000000002,199.5,-173.99,2.55
+Carvedilol,Left Ventricular Dysfunction,9.4,32.8,-46.0,3.6399999999999997,3.01,199.5,-173.99,2.55
+Carvedilol,Not Listed / Othe,5.0,10.0,-46.0,3.64,3.01,199.5,-173.99,2.55
+Cefdinir,Bronchitis,4.304347826086956,8.521739130434783,-6.0,3.5599999999999996,2.36,205.0,-85.99,1.77
+Cefdinir,Otitis Media,4.333333333333333,10.633333333333333,-6.0,3.56,2.36,205.0,-85.99,1.77
+Cefdinir,Pneumonia,6.333333333333333,11.0,-6.0,3.56,2.36,205.0,-85.99,1.7700000000000002
+Cefdinir,Sinusitis,3.9516129032258065,14.774193548387096,-6.0,3.56,2.36,205.0,-85.99,1.77
+Cefdinir,Skin and Structure Infection,2.6666666666666665,2.6666666666666665,-6.0,3.56,2.36,205.0,-85.99,1.7700000000000002
+Cefdinir,Skin or Soft Tissue Infection,5.0,2.5,-6.0,3.56,2.36,205.0,-85.99,1.77
+Cefdinir,Strep Throat,3.4545454545454546,10.363636363636363,-6.0,3.5600000000000005,2.36,205.0,-85.99,1.7699999999999998
+Cefdinir,Tonsillitis/Pharyngitis,6.0,11.25,-6.0,3.56,2.36,205.0,-85.99,1.77
+Cefditoren,Bronchitis,9.0,4.0,-10.0,3.88,3.56,9.0,-330.99,2.32
+Cefditoren,Skin and Structure Infection,3.0,1.0,-10.0,3.88,3.56,9.0,-330.99,2.32
+Cefixime,Bladder Infection,1.0,3.0,-6.0,3.54,3.62,27.0,-76.2,2.98
+Cefixime,Bronchitis,1.0,3.0,-6.0,3.54,3.62,27.0,-76.2,2.98
+Cefixime,Otitis Media,10.0,13.0,-6.0,3.54,3.62,27.0,-76.2,2.98
+Cefixime,Pneumonia,10.0,6.0,-6.0,3.54,3.62,27.0,-76.2,2.98
+Cefixime,STD Prophylaxis,7.0,6.0,-6.0,3.54,3.62,27.0,-76.2,2.98
+Cefixime,Sinusitis,10.0,3.0,-6.0,3.54,3.62,27.0,-76.2,2.98
+Cefixime,Urinary Tract Infection,10.0,4.0,-6.0,3.54,3.62,27.0,-76.2,2.98
+Cefpodoxime,Bladder Infection,10.0,20.0,-4.0,4.33,2.67,15.0,-120.79,2.33
+Cefpodoxime,Pneumonia,8.0,12.0,-4.0,4.33,2.67,15.0,-120.79,2.33
+Cefpodoxime,Sinusitis,9.0,13.0,-4.0,4.33,2.67,15.0,-120.79,2.33
+Cefuroxime,Bacterial Infection,4.333333333333333,3.0,-8.0,3.76,3.64,95.12,-259.92,3.19
+Cefuroxime,Bladder Infection,10.0,42.0,-8.0,3.76,3.64,95.12,-259.92,3.19
+Cefuroxime,Bronchitis,5.0,12.75,-8.0,3.76,3.64,95.12,-259.92,3.19
+Cefuroxime,Lyme Disease,7.5,22.0,-8.0,3.76,3.64,95.12,-259.92,3.19
+Cefuroxime,Otitis Media,6.0,2.0,-8.0,3.76,3.64,95.12,-259.92,3.19
+Cefuroxime,Pneumonia,4.0,28.666666666666668,-8.0,3.76,3.64,95.12,-259.92,3.19
+Cefuroxime,Sinusitis,7.2272727272727275,35.40909090909091,-8.0,3.76,3.64,95.12000000000002,-259.92,3.1899999999999995
+Cefuroxime,Skin and Structure Infection,1.0,11.0,-8.0,3.76,3.64,95.12,-259.92,3.19
+Cefuroxime,Strep Throat,10.0,31.0,-8.0,3.76,3.64,95.12,-259.92,3.19
+Cefuroxime,Tonsillitis/Pharyngitis,9.0,19.0,-8.0,3.76,3.64,95.12,-259.92,3.19
+Cefuroxime,Upper Respiratory Tract Infection,8.0,21.25,-8.0,3.76,3.64,95.12,-259.92,3.19
+Cefuroxime,Urinary Tract Infection,6.666666666666667,27.5,-8.0,3.76,3.64,95.12,-259.92,3.19
+Celecoxib,Ankylosing Spondylitis,8.0,24.0,-58.0,3.98,3.42,394.0,-215.99,3.16
+Celecoxib,Juvenile Rheumatoid Arthritis,8.0,16.0,-58.0,3.98,3.42,394.0,-215.99,3.16
+Celecoxib,Not Listed / Othe,8.0,1.0,-58.0,3.98,3.42,394.0,-215.99,3.16
+Celecoxib,Osteoarthritis,7.755102040816326,44.95918367346939,-58.0,3.9800000000000004,3.4199999999999995,394.0,-215.99,3.16
+Celecoxib,Pain,7.5,47.57142857142857,-58.0,3.98,3.4199999999999995,394.0,-215.99,3.16
+Celecoxib,Period Pain,8.0,12.5,-58.0,3.98,3.42,394.0,-215.99,3.16
+Celecoxib,Rheumatoid Arthritis,7.2727272727272725,41.36363636363637,-58.0,3.98,3.42,394.0,-215.99000000000004,3.1600000000000006
+Cephalexin,Acne,8.0,18.0,-8.0,4.15,3.2,151.75,-13.82,2.6
+Cephalexin,Bacterial Endocarditis Prevention,8.666666666666666,4.0,-8.0,4.15,3.2000000000000006,151.75,-13.82,2.6
+Cephalexin,Bacterial Infection,6.365853658536586,28.926829268292682,-8.0,4.15,3.2000000000000006,151.75,-13.82,2.6
+Cephalexin,Bladder Infection,7.884615384615385,43.34615384615385,-8.0,4.15,3.2,151.75,-13.82,2.6000000000000005
+Cephalexin,Bone infection,7.0,44.0,-8.0,4.15,3.2,151.75,-13.82,2.6
+Cephalexin,Kidney Infections,8.0,30.22222222222222,-8.0,4.15,3.2,151.75,-13.82,2.6
+Cephalexin,Otitis Media,8.0,32.0,-8.0,4.15,3.2,151.75,-13.82,2.6
+Cephalexin,Pharyngitis,4.5,4.5,-8.0,4.15,3.2,151.75,-13.82,2.6
+Cephalexin,Skin or Soft Tissue Infection,6.825396825396825,29.634920634920636,-8.0,4.15,3.2,151.75,-13.82,2.6
+Cephalexin,Upper Respiratory Tract Infection,6.875,38.625,-8.0,4.15,3.2,151.75,-13.82,2.6
+Cetirizine,Allergic Rhinitis,6.507462686567164,17.417910447761194,-58.0,4.4,3.68,77.17,-15.489999999999998,3.46
+Cetirizine,Not Listed / Othe,8.0,3.0,-58.0,4.4,3.68,77.17,-15.49,3.46
+Cetirizine,Urticaria,7.2368421052631575,24.105263157894736,-58.0,4.4,3.68,77.17,-15.49,3.4599999999999995
+Chlorothiazide,Edema,10.0,1.0,-40.0,4.5,3.2,4.5,-31.24,3.05
+Chlorpheniramine,Allergic Reactions,9.166666666666666,9.833333333333334,-30.0,3.5,3.75,2.5,-10.49,3.25
+Chlorpheniramine,Allergic Rhinitis,9.4,14.5,-30.0,3.5,3.75,2.5,-10.49,3.25
+Chlorpheniramine,Cold Symptoms,9.0,17.0,-30.0,3.5,3.75,2.5,-10.49,3.25
+Chlorpheniramine,Urticaria,6.0,23.666666666666668,-30.0,3.5,3.75,2.5,-10.49,3.25
+Chlorthalidone,High Blood Pressure,4.4,14.6,-112.0,4.3,2.67,24.33,-37.99,2.42
+Cholestyramine,Crohn's Disease,9.0,38.5,-4.0,4.21,4.29,31.100000000000005,-67.97,4.03
+Cholestyramine,Dumping Syndrome,9.75,39.75,-4.0,4.21,4.29,31.1,-67.97,4.03
+Cholestyramine,Hyperlipoproteinemia,9.0,12.0,-4.0,4.21,4.29,31.1,-67.97,4.03
+Cholestyramine,"Hyperlipoproteinemia Type IIa, Elevated LDL",7.0,32.0,-4.0,4.21,4.29,31.1,-67.97,4.03
+Cholestyramine,Irritable Bowel Syndrome,9.4,45.72,-4.0,4.21,4.29,31.1,-67.97,4.03
+Cholestyramine,Not Listed / Othe,10.0,14.0,-4.0,4.21,4.29,31.1,-67.97,4.03
+Cholestyramine,Post-Cholecystectomy Diarrhea,8.25,7.083333333333333,-4.0,4.21,4.29,31.100000000000005,-67.97,4.03
+Cholestyramine,Pruritus of Partial Biliary Obstruction,10.0,20.0,-4.0,4.21,4.29,31.1,-67.97,4.03
+Cimetidine,GERD,9.0,5.0,-126.0,5.0,4.75,7.0,-105.99,4.75
+Cimetidine,Human Papilloma Virus,5.5,28.5,-126.0,5.0,4.75,7.0,-105.99,4.75
+Cimetidine,Stomach Ulce,9.0,8.5,-126.0,5.0,4.75,7.0,-105.99,4.75
+Ciprofloxacin,Anthrax,9.0,5.0,-68.0,3.13,3.05,239.9,-17.6,2.54
+Ciprofloxacin,Bacterial Infection,6.458333333333333,21.125,-68.0,3.1300000000000003,3.0499999999999994,239.9,-17.6,2.54
+Ciprofloxacin,Bladder Infection,5.0,36.11290322580645,-68.0,3.13,3.05,239.9,-17.6,2.54
+Ciprofloxacin,Bone infection,7.0,11.0,-68.0,3.13,3.05,239.9,-17.6,2.54
+Ciprofloxacin,Bronchitis,5.5,23.625,-68.0,3.13,3.05,239.9,-17.6,2.54
+Ciprofloxacin,Cholera,10.0,1.0,-68.0,3.13,3.05,239.9,-17.6,2.54
+Ciprofloxacin,"Conjunctivitis, Bacterial",10.0,1.0,-68.0,3.13,3.05,239.9,-17.6,2.54
+Ciprofloxacin,Crohn's Disease,10.0,23.5,-68.0,3.13,3.05,239.9,-17.6,2.54
+Ciprofloxacin,Diverticulitis,5.4,32.2,-68.0,3.13,3.05,239.9,-17.6,2.54
+Ciprofloxacin,"Epididymitis, Sexually Transmitted",4.0,7.0,-68.0,3.13,3.05,239.9,-17.6,2.54
+Ciprofloxacin,"Gonococcal Infection, Uncomplicated",8.0,7.0,-68.0,3.13,3.05,239.9,-17.6,2.54
+Ciprofloxacin,Infectious Diarrhea,4.0,1.0,-68.0,3.13,3.05,239.9,-17.6,2.54
+Ciprofloxacin,Kidney Infections,4.794117647058823,23.294117647058822,-68.0,3.13,3.05,239.9,-17.6,2.54
+Ciprofloxacin,Not Listed / Othe,10.0,2.0,-68.0,3.13,3.05,239.9,-17.6,2.54
+Ciprofloxacin,Prostatitis,3.9642857142857144,14.75,-68.0,3.13,3.05,239.9,-17.6,2.54
+Ciprofloxacin,Sinusitis,7.75,31.333333333333332,-68.0,3.1300000000000003,3.0499999999999994,239.9,-17.6,2.54
+Ciprofloxacin,Skin or Soft Tissue Infection,6.333333333333333,3.0,-68.0,3.1300000000000003,3.0499999999999994,239.9,-17.6,2.54
+Ciprofloxacin,Traveler's Diarrhea,10.0,28.0,-68.0,3.13,3.05,239.9,-17.6,2.54
+Ciprofloxacin,Typhoid Feve,9.0,60.0,-68.0,3.13,3.05,239.9,-17.6,2.54
+Ciprofloxacin,Urinary Tract Infection,5.2875,29.99375,-68.0,3.13,3.05,239.9,-17.6,2.54
+Cisplatin,Brain Tum,10.0,2.0,-24.0,3.22,3.64,17.0,-362.89,3.22
+Clarithromycin,Bronchitis,4.709677419354839,20.774193548387096,-112.0,3.47,3.29,183.18,-99.49,2.54
+Clarithromycin,Dental Abscess,6.0,26.0,-112.0,3.47,3.29,183.18,-99.49,2.54
+Clarithromycin,Helicobacter Pylori Infection,6.0,10.6,-112.0,3.47,3.29,183.18,-99.49,2.54
+Clarithromycin,Legionella Pneumonia,1.0,2.0,-112.0,3.47,3.29,183.18,-99.49,2.54
+Clarithromycin,"Mycobacterium avium-intracellulare, Treatment",1.0,2.0,-112.0,3.47,3.29,183.18,-99.49,2.54
+Clarithromycin,Mycoplasma Pneumonia,1.0,1.0,-112.0,3.47,3.29,183.18,-99.49,2.54
+Clarithromycin,Not Listed / Othe,5.5,1.5,-112.0,3.47,3.29,183.18,-99.49,2.54
+Clarithromycin,Otitis Media,7.545454545454546,8.272727272727273,-112.0,3.47,3.2899999999999996,183.18,-99.49,2.54
+Clarithromycin,Pertussis,7.5,3.0,-112.0,3.47,3.29,183.18,-99.49,2.54
+Clarithromycin,Pharyngitis,9.0,6.25,-112.0,3.47,3.29,183.18,-99.49,2.54
+Clarithromycin,Pneumonia,7.95,11.85,-112.0,3.47,3.29,183.18,-99.49,2.54
+Clarithromycin,Sinusitis,5.451219512195122,20.463414634146343,-112.0,3.47,3.2900000000000005,183.18,-99.49,2.54
+Clarithromycin,Skin and Structure Infection,4.333333333333333,1.6666666666666667,-112.0,3.47,3.2900000000000005,183.17999999999998,-99.49,2.54
+Clarithromycin,Skin or Soft Tissue Infection,3.75,2.5833333333333335,-112.0,3.47,3.2900000000000005,183.17999999999998,-99.49,2.54
+Clarithromycin,Strep Throat,4.592592592592593,8.518518518518519,-112.0,3.4700000000000006,3.29,183.18000000000004,-99.49,2.54
+Clarithromycin,Tonsillitis/Pharyngitis,5.933333333333334,8.466666666666667,-112.0,3.47,3.29,183.18,-99.49,2.54
+Clarithromycin,Upper Respiratory Tract Infection,5.407407407407407,12.037037037037036,-112.0,3.4700000000000006,3.29,183.18000000000004,-99.49,2.54
+Clarithromycin,llicular Lymphoma,5.0,3.0,-112.0,3.47,3.29,183.18,-99.49,2.54
+Clomipramine,Depression,9.181818181818182,40.63636363636363,-52.0,4.04,3.6899999999999995,58.0,-208.99000000000004,3.3399999999999994
+Clomipramine,Irritable Bowel Syndrome,8.0,65.0,-52.0,4.04,3.69,58.0,-208.99,3.34
+Clomipramine,Obsessive Compulsive Disorde,8.518518518518519,45.44444444444444,-52.0,4.04,3.69,58.0,-208.99,3.34
+Clomipramine,Panic Disorde,9.125,52.125,-52.0,4.04,3.69,58.0,-208.99,3.34
+Clomipramine,Trichotillomania,9.0,17.0,-52.0,4.04,3.69,58.0,-208.99,3.34
+Clonidine,ADHD,8.916666666666666,55.166666666666664,-56.0,4.3,3.76,112.19,-105.99,3.07
+Clonidine,Alcohol Withdrawal,6.666666666666667,24.0,-56.0,4.3,3.76,112.19,-105.99,3.07
+Clonidine,Anxiety,7.523809523809524,53.42857142857143,-56.0,4.3,3.76,112.18999999999998,-105.99,3.07
+Clonidine,Benzodiazepine Withdrawal,3.6666666666666665,28.333333333333332,-56.0,4.3,3.76,112.19,-105.99,3.07
+Clonidine,Bipolar Disorde,7.0,14.2,-56.0,4.3,3.7599999999999993,112.19000000000001,-105.98999999999998,3.07
+Clonidine,High Blood Pressure,6.636363636363637,49.63636363636363,-56.0,4.3,3.76,112.19,-105.99,3.07
+Clonidine,Hyperhidrosis,6.333333333333333,15.0,-56.0,4.3,3.76,112.19,-105.99,3.07
+Clonidine,Hypertensive Emergency,9.166666666666666,25.0,-56.0,4.3,3.76,112.19,-105.99,3.07
+Clonidine,"Insomnia, Stimulant-Associated",7.48,32.76,-56.0,4.3,3.76,112.19,-105.99,3.07
+Clonidine,Migraine Prevention,9.666666666666666,38.0,-56.0,4.3,3.76,112.19,-105.99,3.07
+Clonidine,Opiate Withdrawal,8.204724409448819,73.03149606299213,-56.0,4.3,3.76,112.19,-105.99,3.07
+Clonidine,Perimenopausal Symptoms,6.904761904761905,37.23809523809524,-56.0,4.3,3.76,112.18999999999998,-105.99,3.07
+Clonidine,Postural Orthostatic Tachycardia Syndrome,9.0,23.0,-56.0,4.3,3.76,112.19,-105.99,3.07
+Clonidine,Restless Legs Syndrome,10.0,21.5,-56.0,4.3,3.76,112.19,-105.99,3.07
+Clonidine,Tourette's Syndrome,6.823529411764706,22.88235294117647,-56.0,4.3,3.76,112.19,-105.99,3.07
+Clotrimazole,Oral Thrush,4.888888888888889,23.11111111111111,-14.0,4.34,3.74,9.88,-30.809999999999995,3.7799999999999994
+Clotrimazole,Tinea Cruris,10.0,5.0,-14.0,4.34,3.74,9.88,-30.81,3.78
+Clotrimazole,Tinea Versicol,9.0,2.0,-14.0,4.34,3.74,9.88,-30.81,3.78
+Clotrimazole,Vaginal Yeast Infection,9.5,17.0,-14.0,4.34,3.74,9.88,-30.81,3.78
+Cyclobenzaprine,Chronic Myofascial Pain,5.0,12.833333333333334,-54.0,4.43,3.6,370.75,-20.39,3.3800000000000003
+Cyclobenzaprine,Migraine,6.133333333333334,30.6,-54.0,4.429999999999999,3.6,370.75,-20.39,3.38
+Cyclobenzaprine,Muscle Spasm,6.240223463687151,32.10614525139665,-54.0,4.43,3.6,370.75,-20.39,3.38
+Cyclobenzaprine,Not Listed / Othe,8.0,2.0,-54.0,4.43,3.6,370.75,-20.39,3.3800000000000003
+Cyclobenzaprine,Sciatica,6.655172413793103,40.96551724137931,-54.0,4.43,3.6,370.75,-20.39,3.38
+Cyclobenzaprine,Temporomandibular Joint Disorde,7.5,17.166666666666668,-54.0,4.43,3.6,370.75,-20.39,3.3800000000000003
+Cyclobenzaprine,ibromyalgia,7.620689655172414,36.48275862068966,-54.0,4.43,3.6,370.75,-20.39,3.38
+Cyclobenzaprine,t Pac with Cyclobenzaprine (cyclobenzaprine),4.5,30.0,-54.0,4.43,3.6,370.75,-20.39,3.38
+Danazol,Angioedema,9.5,7.5,-12.0,3.69,2.82,16.0,-119.61,2.69
+Danazol,Endometriosis,6.666666666666667,9.333333333333334,-12.0,3.69,2.82,16.0,-119.61,2.69
+Danazol,ibrocystic Breast Disease,9.0,6.0,-12.0,3.69,2.82,16.0,-119.61,2.69
+Demeclocycline,SIADH,7.666666666666667,5.666666666666667,-14.0,3.0,1.0,2.5,-880.9900000000001,1.0
+Desipramine,ADHD,6.0,8.0,-60.0,4.38,3.59,35.5,-41.99,3.17
+Desipramine,Depression,9.857142857142858,40.857142857142854,-60.0,4.38,3.59,35.5,-41.99,3.1699999999999995
+Desipramine,Irritable Bowel Syndrome,9.0,14.0,-60.0,4.38,3.59,35.5,-41.99,3.17
+Desipramine,Vulvodynia,10.0,4.0,-60.0,4.38,3.59,35.5,-41.99,3.17
+Dexamethasone,Addison's Disease,9.333333333333334,8.0,-60.0,3.92,4.18,14.29,-29.66,3.8800000000000003
+Dexamethasone,Allergic Rhinitis,10.0,15.0,-60.0,3.92,4.18,14.29,-29.66,3.88
+Dexamethasone,Asthma,8.0,15.0,-60.0,3.92,4.18,14.29,-29.66,3.88
+Dexamethasone,Cerebral Edema,8.0,3.0,-60.0,3.92,4.18,14.29,-29.66,3.88
+Dexamethasone,Croup,9.0,5.0,-60.0,3.92,4.18,14.29,-29.66,3.88
+Dexamethasone,Dermatitis Herpeti,10.0,3.0,-60.0,3.92,4.18,14.29,-29.66,3.88
+Dexamethasone,Eczema,10.0,7.0,-60.0,3.92,4.18,14.29,-29.66,3.88
+Dexamethasone,Inflammatory Conditions,6.714285714285714,12.904761904761905,-60.0,3.9199999999999995,4.18,14.29,-29.66,3.8800000000000003
+Dexamethasone,Lymphoma,10.0,8.0,-60.0,3.92,4.18,14.29,-29.66,3.88
+Dexamethasone,Macular Edema,1.0,3.0,-60.0,3.92,4.18,14.29,-29.66,3.88
+Dexamethasone,Multiple Myeloma,1.0,2.0,-60.0,3.92,4.18,14.29,-29.66,3.88
+Dexamethasone,Multiple Sclerosis,10.0,19.0,-60.0,3.92,4.18,14.29,-29.66,3.88
+Dexamethasone,"Nausea/Vomiting, Chemotherapy Induced",8.2,11.6,-60.0,3.9200000000000004,4.18,14.289999999999997,-29.660000000000004,3.88
+Dexamethasone,Not Listed / Othe,5.0,8.0,-60.0,3.92,4.18,14.29,-29.66,3.88
+Dextromethorphan,Cough,3.7704918032786887,7.090163934426229,-58.0,3.67,3.67,3.0,-13.86,3.17
+Diclofenac,Ankylosing Spondylitis,7.3,14.6,-80.0,4.25,3.9,152.33,-157.19,3.5799999999999996
+Diclofenac,Back Pain,7.355555555555555,26.866666666666667,-80.0,4.25,3.9,152.33,-157.19,3.58
+Diclofenac,Keratosis,4.75,16.25,-80.0,4.25,3.9,152.33,-157.19,3.58
+Diclofenac,Migraine,8.238095238095237,19.904761904761905,-80.0,4.25,3.8999999999999995,152.33,-157.19,3.5800000000000005
+Diclofenac,Muscle Pain,7.7272727272727275,23.0,-80.0,4.25,3.9,152.33,-157.19,3.58
+Diclofenac,Not Listed / Othe,8.5,1.5,-80.0,4.25,3.9,152.33,-157.19,3.58
+Diclofenac,Osteoarthritis,8.322033898305085,43.813559322033896,-80.0,4.25,3.9,152.33,-157.19,3.58
+Diclofenac,Pain,7.820754716981132,24.391509433962263,-80.0,4.25,3.9,152.33,-157.19,3.58
+Diclofenac,Period Pain,7.7,14.45,-80.0,4.25,3.9,152.33,-157.19,3.5799999999999996
+Diclofenac,Rheumatoid Arthritis,7.173913043478261,19.782608695652176,-80.0,4.25,3.9,152.33,-157.19,3.58
+Diclofenac,Sciatica,7.583333333333333,37.833333333333336,-80.0,4.25,3.9,152.33,-157.19,3.58
+Diclofenac,zen Shoulde,8.666666666666666,19.0,-80.0,4.25,3.9,152.33,-157.19,3.58
+Diflunisal,Osteoarthritis,9.5,4.5,-30.0,4.34,3.9,17.5,-21.39,3.52
+Diflunisal,Pain,5.5,9.0,-30.0,4.34,3.9,17.5,-21.39,3.52
+Diflunisal,Rheumatoid Arthritis,6.5,8.5,-30.0,4.34,3.9,17.5,-21.39,3.52
+Diltiazem,Angina Pectoris Prophylaxis,7.0,12.333333333333334,-162.0,4.0,3.59,43.44,-164.96,2.5
+Diltiazem,Atrial Fibrillation,7.590909090909091,44.77272727272727,-162.0,4.0,3.5899999999999994,43.44,-164.96,2.5
+Diltiazem,Atrial Flutte,3.1666666666666665,15.833333333333334,-162.0,4.0,3.59,43.44,-164.96,2.5
+Diltiazem,High Blood Pressure,6.7894736842105265,40.473684210526315,-162.0,4.0,3.59,43.44,-164.96,2.5
+Diltiazem,Not Listed / Othe,8.0,5.0,-162.0,4.0,3.59,43.44,-164.96,2.5
+Diltiazem,Raynaud's Syndrome,8.0,62.0,-162.0,4.0,3.59,43.44,-164.96,2.5
+Diltiazem,Supraventricular Tachycardia,7.857142857142857,32.857142857142854,-162.0,4.0,3.59,43.44,-164.96,2.5
+Dimenhydrinate,Insomnia,9.666666666666666,13.666666666666666,-26.0,4.87,4.57,4.1,-6.239999999999999,4.07
+Dimenhydrinate,Motion Sickness,9.263157894736842,22.42105263157895,-26.0,4.87,4.57,4.1,-6.24,4.07
+Dimenhydrinate,Nausea/Vomiting,9.571428571428571,32.714285714285715,-26.0,4.87,4.57,4.1,-6.24,4.07
+Dimenhydrinate,Not Listed / Othe,9.0,1.0,-26.0,4.87,4.57,4.1,-6.24,4.07
+Diphenhydramine,Allergic Reactions,7.904761904761905,17.333333333333332,-34.0,4.54,3.4199999999999995,43.32,-13.349999999999998,3.41
+Diphenhydramine,Allergic Rhinitis,6.666666666666667,7.111111111111111,-34.0,4.54,3.42,43.32,-13.35,3.41
+Diphenhydramine,Cold Symptoms,6.75,11.5,-34.0,4.54,3.42,43.32,-13.35,3.41
+Diphenhydramine,Cough,8.0,15.0,-34.0,4.54,3.42,43.32,-13.35,3.41
+Diphenhydramine,Insomnia,6.46875,16.484375,-34.0,4.54,3.42,43.32,-13.35,3.41
+Diphenhydramine,Motion Sickness,9.0,17.0,-34.0,4.54,3.42,43.32,-13.35,3.41
+Diphenhydramine,Nausea/Vomiting,7.0,31.833333333333332,-34.0,4.54,3.42,43.32,-13.35,3.41
+Diphenhydramine,Urticaria,5.333333333333333,7.333333333333333,-34.0,4.54,3.42,43.32,-13.35,3.41
+Doxazosin,Benign Prostatic Hyperplasia,7.538461538461538,39.23076923076923,-48.0,4.1,3.14,79.0,-97.94,2.82
+Doxazosin,High Blood Pressure,7.333333333333333,41.55555555555556,-48.0,4.1,3.14,79.0,-97.94,2.82
+Doxazosin,Not Listed / Othe,5.0,31.5,-48.0,4.1,3.14,79.0,-97.94,2.82
+Doxepin,Anxiety,7.5,25.1,-50.0,4.26,4.03,68.67,-13.169999999999998,3.72
+Doxepin,Depression,7.636363636363637,44.36363636363637,-50.0,4.26,4.03,68.67,-13.17,3.72
+Doxepin,Dermatitis,1.0,1.0,-50.0,4.26,4.03,68.67,-13.17,3.72
+Doxepin,Insomnia,6.446153846153846,41.76923076923077,-50.0,4.26,4.03,68.67,-13.17,3.72
+Doxepin,Irritable Bowel Syndrome,7.0,10.0,-50.0,4.26,4.03,68.67,-13.17,3.72
+Doxepin,Major Depressive Disorde,10.0,55.0,-50.0,4.26,4.03,68.67,-13.17,3.72
+Doxepin,Not Listed / Othe,10.0,23.0,-50.0,4.26,4.03,68.67,-13.17,3.72
+Doxepin,Pruritus,9.0,1.0,-50.0,4.26,4.03,68.67,-13.17,3.72
+Doxepin,Reflex Sympathetic Dystrophy Syndrome,3.0,5.0,-50.0,4.26,4.03,68.67,-13.17,3.72
+Doxepin,Urticaria,8.625,32.625,-50.0,4.26,4.03,68.67,-13.17,3.72
+Doxorubicin,Breast Cance,9.0,16.0,-92.0,2.33,1.67,3.33,-23.29,2.33
+Doxorubicin,Cance,10.0,7.0,-92.0,2.33,1.67,3.33,-23.29,2.33
+Doxorubicin,Lymphoma,4.0,9.0,-92.0,2.33,1.67,3.33,-23.29,2.33
+Doxycycline,Acne,7.437673130193906,15.182825484764543,-32.0,3.1000000000000005,3.1300000000000003,90.79999999999998,-75.22,2.71
+Doxycycline,Bacterial Infection,5.74,39.68,-32.0,3.1,3.13,90.8,-75.22,2.71
+Doxycycline,Bronchiectasis,9.0,13.0,-32.0,3.1,3.13,90.8,-75.22,2.71
+Doxycycline,Bronchitis,5.473684210526316,19.94736842105263,-32.0,3.1,3.13,90.8,-75.22,2.71
+Doxycycline,Bullous Pemphigoid,9.0,1.0,-32.0,3.1,3.13,90.8,-75.22,2.71
+Doxycycline,Chlamydia Infection,7.3076923076923075,14.23076923076923,-32.0,3.1000000000000005,3.13,90.79999999999998,-75.22,2.71
+Doxycycline,Ehrlichiosis,10.0,2.0,-32.0,3.1,3.13,90.8,-75.22,2.71
+Doxycycline,Gastroenteritis,1.0,1.0,-32.0,3.1,3.13,90.8,-75.22,2.71
+Doxycycline,Lyme Disease,7.916666666666667,31.666666666666668,-32.0,3.1,3.1300000000000003,90.8,-75.22,2.7099999999999995
+Doxycycline,"Lyme Disease, Arthritis",5.0,1.0,-32.0,3.1,3.13,90.8,-75.22,2.71
+Doxycycline,"Lyme Disease, Neurologic",8.2,10.4,-32.0,3.1,3.13,90.8,-75.22,2.71
+Doxycycline,Malaria,7.5,6.0,-32.0,3.1,3.13,90.8,-75.22,2.71
+Doxycycline,Malaria Prevention,3.0,2.0,-32.0,3.1,3.13,90.8,-75.22,2.71
+Doxycycline,Not Listed / Othe,2.0,1.0,-32.0,3.1,3.13,90.8,-75.22,2.71
+Doxycycline,Ocular Rosacea,6.0,6.0,-32.0,3.1,3.13,90.8,-75.22,2.71
+Doxycycline,Pelvic Inflammatory Disease,7.0,2.0,-32.0,3.1,3.13,90.8,-75.22,2.71
+Doxycycline,Pneumonia,5.095238095238095,18.904761904761905,-32.0,3.1000000000000005,3.1300000000000003,90.8,-75.22,2.71
+Doxycycline,Prostatitis,7.333333333333333,13.0,-32.0,3.1,3.1300000000000003,90.8,-75.22,2.7099999999999995
+Doxycycline,Q Feve,9.0,1.0,-32.0,3.1,3.13,90.8,-75.22,2.71
+Doxycycline,Rheumatoid Arthritis,5.5,9.5,-32.0,3.1,3.13,90.8,-75.22,2.71
+Doxycycline,Rosacea,8.271186440677965,24.593220338983052,-32.0,3.1,3.13,90.8,-75.22,2.71
+Doxycycline,Skin or Soft Tissue Infection,7.214285714285714,16.571428571428573,-32.0,3.1,3.13,90.8,-75.22,2.71
+Doxycycline,Upper Respiratory Tract Infection,5.785714285714286,38.785714285714285,-32.0,3.1,3.13,90.8,-75.22,2.71
+Doxycycline,Urinary Tract Infection,6.933333333333334,48.13333333333333,-32.0,3.1,3.13,90.8,-75.22,2.71
+Doxylamine,Insomnia,6.625,31.23611111111111,-244.0,4.29,3.6199999999999997,1.55,-9.06,3.6800000000000006
+Doxylamine,Not Listed / Othe,10.0,40.0,-244.0,4.29,3.62,1.55,-9.06,3.68
+Duloxetine,Anxiety,6.88,51.864,-204.0,4.01,3.71,2367.67,-100.74,3.28
+Duloxetine,Back Pain,7.2631578947368425,38.05263157894737,-204.0,4.01,3.7099999999999995,2367.67,-100.74,3.28
+Duloxetine,Bipolar Disorde,6.454545454545454,26.545454545454547,-204.0,4.01,3.7100000000000004,2367.67,-100.74,3.28
+Duloxetine,Chronic Fatigue Syndrome,3.75,17.75,-204.0,4.01,3.71,2367.67,-100.74,3.28
+Duloxetine,Chronic Pain,6.333333333333333,47.31818181818182,-204.0,4.01,3.71,2367.67,-100.74,3.28
+Duloxetine,Depression,6.548780487804878,48.954268292682926,-204.0,4.01,3.7099999999999995,2367.67,-100.74000000000001,3.28
+Duloxetine,Diabetic Peripheral Neuropathy,6.086956521739131,32.47826086956522,-204.0,4.01,3.71,2367.67,-100.74,3.28
+Duloxetine,Generalized Anxiety Disorde,6.587301587301587,51.06349206349206,-204.0,4.01,3.71,2367.67,-100.74,3.28
+Duloxetine,Hot Flashes,6.125,20.25,-204.0,4.01,3.71,2367.67,-100.74,3.28
+Duloxetine,Major Depressive Disorde,7.0606060606060606,21.727272727272727,-204.0,4.01,3.71,2367.67,-100.74,3.28
+Duloxetine,Not Listed / Othe,8.75,1.5,-204.0,4.01,3.71,2367.67,-100.74,3.28
+Duloxetine,Osteoarthritis,7.166666666666667,53.27777777777778,-204.0,4.01,3.71,2367.67,-100.74,3.28
+Duloxetine,Pain,7.574468085106383,43.93617021276596,-204.0,4.01,3.71,2367.67,-100.74,3.28
+Duloxetine,Peripheral Neuropathy,5.866666666666666,33.6,-204.0,4.01,3.71,2367.67,-100.74,3.28
+Duloxetine,Persistent Depressive Disorde,10.0,16.0,-204.0,4.01,3.71,2367.67,-100.74,3.28
+Duloxetine,Small Fiber Neuropathy,6.0,3.0,-204.0,4.01,3.71,2367.67,-100.74,3.28
+Duloxetine,Urinary Incontinence,2.0,10.0,-204.0,4.01,3.71,2367.67,-100.74,3.28
+Duloxetine,ibromyalgia,6.5394736842105265,38.43421052631579,-204.0,4.01,3.7099999999999995,2367.67,-100.74,3.28
+Enalapril,Diabetic Kidney Disease,3.0,33.0,-40.0,4.31,3.88,72.58,-27.99,3.28
+Enalapril,High Blood Pressure,6.5,24.25,-40.0,4.31,3.88,72.58,-27.99,3.28
+Enalapril,Hypertensive Emergency,9.0,14.0,-40.0,4.31,3.88,72.58,-27.99,3.28
+Enalapril,Left Ventricular Dysfunction,6.666666666666667,13.666666666666666,-40.0,4.31,3.8800000000000003,72.58,-27.99,3.28
+Eplerenone,High Blood Pressure,8.0,18.5,-98.0,3.75,3.42,14.5,-119.99,3.3
+Erythromycin,Acne,10.0,27.0,-204.0,3.21,3.57,16.36,-187.87,3.2
+Erythromycin,Bronchitis,6.5,26.5,-204.0,3.21,3.57,16.36,-187.87,3.2
+Erythromycin,"Conjunctivitis, Bacterial",8.0,12.0,-204.0,3.21,3.57,16.36,-187.87,3.2
+Erythromycin,Dental Abscess,3.5,14.5,-204.0,3.21,3.57,16.36,-187.87,3.2
+Erythromycin,Otitis Media,7.0,19.0,-204.0,3.21,3.57,16.36,-187.87,3.2
+Erythromycin,Pharyngitis,7.666666666666667,6.0,-204.0,3.2099999999999995,3.57,16.36,-187.87,3.2000000000000006
+Erythromycin,Skin or Soft Tissue Infection,5.0,39.0,-204.0,3.21,3.57,16.36,-187.87,3.2
+Erythromycin,Strep Throat,10.0,29.0,-204.0,3.21,3.57,16.36,-187.87,3.2
+Erythromycin,Upper Respiratory Tract Infection,7.6,20.4,-204.0,3.21,3.5699999999999994,16.36,-187.87,3.2
+Esomeprazole,Barrett's Esophagus,8.714285714285714,32.357142857142854,-38.0,3.89,3.55,10.0,-250.24,3.15
+Esomeprazole,Duodenal Ulcer Prophylaxis,7.0,12.0,-38.0,3.89,3.55,10.0,-250.24,3.15
+Esomeprazole,Erosive Esophagitis,9.0,19.8,-38.0,3.8899999999999997,3.55,10.0,-250.24,3.15
+Esomeprazole,GERD,7.712121212121212,25.651515151515152,-38.0,3.89,3.55,10.0,-250.24,3.15
+Esomeprazole,Helicobacter Pylori Infection,10.0,27.0,-38.0,3.89,3.55,10.0,-250.24,3.15
+Esomeprazole,NSAID-Induced Gastric Ulce,10.0,13.0,-38.0,3.89,3.5499999999999994,10.0,-250.24,3.15
+Esomeprazole,Not Listed / Othe,9.5,1.0,-38.0,3.89,3.55,10.0,-250.24,3.15
+Etodolac,Juvenile Rheumatoid Arthritis,10.0,5.0,-34.0,4.18,3.26,175.0,-66.99,3.25
+Etodolac,Osteoarthritis,7.7,28.4,-34.0,4.18,3.2599999999999993,175.0,-66.99,3.25
+Etodolac,Pain,7.3076923076923075,33.23076923076923,-34.0,4.18,3.26,175.0,-66.99,3.25
+Etodolac,Rheumatoid Arthritis,8.0,5.0,-34.0,4.18,3.26,175.0,-66.99,3.25
+Ezetimibe,High Cholesterol,5.0,56.55172413793103,-10.0,4.17,3.7,223.0,-144.49,3.03
+Ezetimibe,"High Cholesterol, Familial Heterozygous",9.6,65.0,-10.0,4.17,3.7,223.0,-144.49,3.03
+Famotidine,Allergic Urticaria,7.5,21.0,-26.0,4.6,3.84,18.19,-15.28,3.63
+Famotidine,Duodenal Ulce,8.0,10.0,-26.0,4.6,3.84,18.19,-15.28,3.63
+Famotidine,GERD,5.0,18.4,-26.0,4.6,3.84,18.19,-15.279999999999998,3.63
+Famotidine,Indigestion,1.5,6.0,-26.0,4.6,3.84,18.19,-15.28,3.63
+Famotidine,Not Listed / Othe,10.0,4.0,-26.0,4.6,3.84,18.19,-15.28,3.63
+Famotidine,Urticaria,6.5,3.0,-26.0,4.6,3.84,18.19,-15.28,3.63
+Felodipine,High Blood Pressure,8.0,20.0,-44.0,4.27,3.8,34.0,-61.99,3.24
+Felodipine,Raynaud's Syndrome,10.0,12.0,-44.0,4.27,3.8,34.0,-61.99,3.24
+Fenofibrate,Hyperlipoproteinemia,5.166666666666667,65.0,-16.0,3.91,3.75,71.67,-59.59,3.18
+Fenofibrate,"Hyperlipoproteinemia Type IIa, Elevated LDL",5.666666666666667,34.0,-16.0,3.91,3.75,71.67,-59.59,3.18
+Fenofibrate,Hypertriglyceridemia,6.375,39.125,-16.0,3.91,3.75,71.67,-59.59,3.18
+Fenofibrate,Not Listed / Othe,9.5,66.5,-16.0,3.91,3.75,71.67,-59.59,3.18
+Fenoprofen,"Gout, Acute",8.0,6.0,-48.0,4.61,3.44,6.67,-99.59,3.44
+Fluconazole,Candida Urinary Tract Infection,7.0,9.75,-342.0,4.42,3.6,196.5,-19.19,3.22
+Fluconazole,Candidemia,9.333333333333334,20.0,-342.0,4.42,3.6,196.5,-19.19,3.22
+Fluconazole,Esophageal Candidiasis,10.0,42.0,-342.0,4.42,3.6,196.5,-19.19,3.22
+Fluconazole,"Onychomycosis, Toenail",9.5,35.833333333333336,-342.0,4.42,3.6,196.5,-19.19,3.22
+Fluconazole,Oral Thrush,10.0,18.5,-342.0,4.42,3.6,196.5,-19.19,3.22
+Fluconazole,Systemic Candidiasis,8.0,6.0,-342.0,4.42,3.6,196.5,-19.19,3.22
+Fluconazole,Tinea Corporis,10.0,3.0,-342.0,4.42,3.6,196.5,-19.19,3.22
+Fluconazole,Tinea Cruris,9.0,1.0,-342.0,4.42,3.6,196.5,-19.19,3.22
+Fluconazole,Tinea Versicol,5.5,8.5,-342.0,4.42,3.6,196.5,-19.19,3.22
+Fluconazole,Vaginal Yeast Infection,6.971751412429379,31.785310734463277,-342.0,4.42,3.6,196.5,-19.19,3.22
+Fluconazole,ungal Pneumonia,2.0,2.0,-342.0,4.42,3.6,196.5,-19.19,3.22
+Fluorouracil,Actinic Keratosis,6.9411764705882355,24.88235294117647,-28.0,1.0,3.0,5.0,-25.99,3.0
+Fluorouracil,Basal Cell Carcinoma,8.0,40.9,-28.0,1.0,3.0,5.0,-25.99,3.0
+Fluorouracil,Keratosis,8.590909090909092,86.5909090909091,-28.0,1.0,3.0,5.0,-25.99,3.0
+Fluorouracil,Skin Cance,8.090909090909092,75.27272727272727,-28.0,1.0,3.0,5.0,-25.99,3.0
+Fluorouracil,Warts,1.0,12.0,-28.0,1.0,3.0,5.0,-25.99,3.0
+Flurbiprofen,Back Pain,9.666666666666666,8.333333333333334,-36.0,4.66,4.75,7.0,-99.49,4.42
+Flurbiprofen,Period Pain,8.0,2.0,-36.0,4.66,4.75,7.0,-99.49,4.42
+Flurbiprofen,Rheumatoid Arthritis,6.0,9.0,-36.0,4.66,4.75,7.0,-99.49,4.42
+Flurbiprofen,Sciatica,10.0,1.0,-36.0,4.66,4.75,7.0,-99.49,4.42
+Fluvoxamine,Anorexia/Feeding Problems,8.5,10.0,-308.0,4.21,3.72,76.0,-80.49,3.58
+Fluvoxamine,Anxiety and Stress,6.107142857142857,34.464285714285715,-308.0,4.21,3.72,76.0,-80.49,3.5800000000000005
+Fluvoxamine,Depression,6.75,22.916666666666668,-308.0,4.21,3.72,76.0,-80.49,3.58
+Fluvoxamine,Obsessive Compulsive Disorde,8.08695652173913,41.34782608695652,-308.0,4.21,3.72,76.0,-80.49,3.58
+Fluvoxamine,Persistent Depressive Disorde,10.0,6.0,-308.0,4.21,3.72,76.0,-80.49,3.58
+Fluvoxamine,Post Traumatic Stress Disorde,5.333333333333333,9.0,-308.0,4.21,3.72,76.0,-80.49,3.58
+Fluvoxamine,Social Anxiety Disorde,1.0,4.0,-308.0,4.21,3.72,76.0,-80.49,3.58
+Fosinopril,High Blood Pressure,10.0,10.0,-50.0,3.35,2.86,10.5,-44.79,2.45
+Furosemide,Edema,7.612903225806452,64.54838709677419,-74.0,3.89,2.75,140.5,-11.99,2.49
+Furosemide,Heart Failure,9.5,30.0,-74.0,3.89,2.75,140.5,-11.99,2.49
+Furosemide,High Blood Pressure,6.285714285714286,23.142857142857142,-74.0,3.89,2.75,140.5,-11.99,2.4899999999999998
+Furosemide,Hypercalcemia,7.0,13.0,-74.0,3.89,2.75,140.5,-11.99,2.49
+Gemcitabine,"Breast Cancer, Metastatic",7.0,4.0,-16.0,3.56,3.34,21.5,-170.99,2.84
+Gemcitabine,Pancreatic Cance,7.333333333333333,45.0,-16.0,3.56,3.34,21.5,-170.99,2.84
+Goserelin,Bleeding Disorde,10.0,2.0,-246.0,5.0,4.0,4.0,-701.2,5.0
+Goserelin,Endometriosis,5.823529411764706,20.88235294117647,-246.0,5.0,4.0,4.0,-701.2,5.0
+Goserelin,Prostate Cance,7.8,48.0,-246.0,5.0,4.0,4.0,-701.2,5.0
+Guanfacine,ADHD,5.890756302521009,52.84033613445378,-62.0,3.94,3.39,67.0,-40.99,3.16
+Guanfacine,High Blood Pressure,6.75,13.75,-62.0,3.94,3.39,67.0,-40.99,3.16
+Guanfacine,Tourette's Syndrome,7.0,8.0,-62.0,3.94,3.39,67.0,-40.99,3.16
+Hydralazine,High Blood Pressure,3.3636363636363638,40.72727272727273,-2.0,2.21,2.2,70.0,-69.19,1.7199999999999998
+Hydralazine,Hypertensive Emergency,9.0,48.0,-2.0,2.21,2.2,70.0,-69.19,1.72
+Hydrochlorothiazide,Edema,6.666666666666667,35.666666666666664,-30.0,4.0,3.47,111.25,-11.99,2.9599999999999995
+Hydrochlorothiazide,High Blood Pressure,5.484848484848484,49.21212121212121,-30.0,4.0,3.47,111.25,-11.99,2.96
+Hydrochlorothiazide,Nephrocalcinosis,7.25,16.0,-30.0,4.0,3.47,111.25,-11.99,2.96
+Hydrocortisone,Addison's Disease,8.666666666666666,4.0,-56.0,3.74,3.18,8.17,-412.74,3.0499999999999994
+Hydrocortisone,Adrenocortical Insufficiency,7.2,18.6,-56.0,3.7400000000000007,3.18,8.17,-412.73999999999995,3.05
+Hydrocortisone,Atopic Dermatitis,4.5,2.0,-56.0,3.74,3.18,8.17,-412.74,3.05
+Hydrocortisone,Dermatitis,7.8,8.2,-56.0,3.7400000000000007,3.18,8.17,-412.73999999999995,3.05
+Hydrocortisone,Eczema,8.857142857142858,10.714285714285714,-56.0,3.7399999999999998,3.18,8.17,-412.74000000000007,3.05
+Hydrocortisone,Hemorrhoids,7.333333333333333,19.833333333333332,-56.0,3.74,3.18,8.17,-412.74,3.0499999999999994
+Hydrocortisone,Inflammatory Conditions,9.0,1.0,-56.0,3.74,3.18,8.17,-412.74,3.05
+Hydrocortisone,Pruritus,7.5,5.0,-56.0,3.74,3.18,8.17,-412.74,3.05
+Hydrocortisone,Psoriasis,10.0,1.0,-56.0,3.74,3.18,8.17,-412.74,3.05
+Hydrocortisone,Skin Rash,10.0,4.0,-56.0,3.74,3.18,8.17,-412.74,3.05
+Hydrocortisone,Ulcerative Proctitis,4.0,9.0,-56.0,3.74,3.18,8.17,-412.74,3.05
+Ibuprofen,Back Pain,7.285714285714286,15.285714285714286,-20.0,4.3,3.98,48.45,-154.05,3.73
+Ibuprofen,Cystic Fibrosis,10.0,9.0,-20.0,4.3,3.98,48.45,-154.05,3.73
+Ibuprofen,"Gout, Acute",9.333333333333334,39.333333333333336,-20.0,4.3,3.98,48.45000000000001,-154.05,3.73
+Ibuprofen,Headache,8.307692307692308,7.076923076923077,-20.0,4.3,3.98,48.45,-154.05,3.73
+Ibuprofen,Muscle Pain,6.25,20.0,-20.0,4.3,3.98,48.45,-154.05,3.73
+Ibuprofen,Neck Pain,1.0,6.0,-20.0,4.3,3.98,48.45,-154.05,3.73
+Ibuprofen,Not Listed / Othe,5.0,1.5,-20.0,4.3,3.98,48.45,-154.05,3.73
+Ibuprofen,Osteoarthritis,9.5,24.0,-20.0,4.3,3.98,48.45,-154.05,3.73
+Ibuprofen,Pain,8.695652173913043,9.869565217391305,-20.0,4.3,3.9800000000000004,48.45,-154.05,3.7300000000000004
+Ibuprofen,Patent Ductus Arteriosus,5.0,3.0,-20.0,4.3,3.98,48.45,-154.05,3.73
+Ibuprofen,Period Pain,7.0,8.454545454545455,-20.0,4.3,3.98,48.45,-154.05,3.73
+Ibuprofen,Rheumatoid Arthritis,10.0,18.0,-20.0,4.3,3.98,48.45,-154.05,3.73
+Ibuprofen,Sciatica,6.8,19.2,-20.0,4.3,3.9799999999999995,48.45,-154.05,3.7299999999999995
+Ibuprofen,Spondylolisthesis,2.0,6.0,-20.0,4.3,3.98,48.45,-154.05,3.73
+Ibuprofen,Temporomandibular Joint Disorde,8.0,1.0,-20.0,4.3,3.98,48.45,-154.05,3.73
+Ibuprofen,Toothache,10.0,2.0,-20.0,4.3,3.98,48.45,-154.05,3.73
+Ibuprofen,eve,9.0,21.0,-20.0,4.3,3.98,48.45,-154.05,3.73
+Ibuprofen,zen Shoulde,8.0,1.0,-20.0,4.3,3.98,48.45,-154.05,3.73
+Imipramine,ADHD,3.0,23.0,-136.0,3.79,3.17,61.0,-250.24,2.98
+Imipramine,Depression,6.454545454545454,37.09090909090909,-136.0,3.7899999999999996,3.17,61.0,-250.24000000000004,2.98
+Imipramine,Interstitial Cystitis,9.0,75.0,-136.0,3.79,3.17,61.0,-250.24,2.98
+Imipramine,Irritable Bowel Syndrome,7.0,41.0,-136.0,3.79,3.17,61.0,-250.24,2.98
+Imipramine,Night Terrors,9.5,44.0,-136.0,3.79,3.17,61.0,-250.24,2.98
+Imipramine,Panic Disorde,8.181818181818182,49.45454545454545,-136.0,3.7899999999999996,3.17,61.0,-250.24000000000004,2.98
+Imipramine,Primary Nocturnal Enuresis,3.0,20.0,-136.0,3.79,3.17,61.0,-250.24,2.98
+Indapamide,High Blood Pressure,10.0,4.0,-54.0,4.58,3.71,11.0,-21.99,3.28
+Indapamide,Not Listed / Othe,6.0,51.0,-54.0,4.58,3.71,11.0,-21.99,3.28
+Indomethacin,Ankylosing Spondylitis,8.75,10.75,-66.0,4.4,3.66,133.67,-15.99,3.6
+Indomethacin,Back Pain,7.0,33.0,-66.0,4.4,3.66,133.67,-15.99,3.6
+Indomethacin,Bursitis,8.0,16.5,-66.0,4.4,3.66,133.67,-15.99,3.6
+Indomethacin,Cluster Headaches,9.0,6.8,-66.0,4.4,3.66,133.67,-15.99,3.6
+Indomethacin,"Gout, Acute",8.315068493150685,30.80821917808219,-66.0,4.4,3.66,133.67,-15.99,3.6
+Indomethacin,Not Listed / Othe,8.0,1.0,-66.0,4.4,3.66,133.67,-15.99,3.6
+Indomethacin,Osteoarthritis,9.666666666666666,25.333333333333332,-66.0,4.4,3.66,133.67,-15.99,3.6
+Indomethacin,Pain,6.555555555555555,10.333333333333334,-66.0,4.4,3.6599999999999997,133.67,-15.99,3.5999999999999996
+Indomethacin,Rheumatoid Arthritis,8.5,10.5,-66.0,4.4,3.66,133.67,-15.99,3.6
+Indomethacin,zen Shoulde,10.0,12.0,-66.0,4.4,3.66,133.67,-15.99,3.6
+Irbesartan,Diabetic Kidney Disease,9.0,39.0,-14.0,3.96,3.66,87.0,-147.99,3.15
+Irbesartan,High Blood Pressure,5.090909090909091,52.57575757575758,-14.0,3.9600000000000004,3.66,87.0,-147.99,3.15
+Irbesartan,Not Listed / Othe,6.0,21.0,-14.0,3.96,3.66,87.0,-147.99,3.15
+Isradipine,Raynaud's Syndrome,5.0,4.0,-100.0,4.2,3.41,12.33,-79.99,2.86
+Ketoprofen,Back Pain,9.0,8.0,-26.0,4.36,4.38,9.88,-25.46,4.38
+Ketoprofen,"Gout, Acute",10.0,3.5,-26.0,4.36,4.38,9.88,-25.46,4.38
+Ketoprofen,Osteoarthritis,10.0,4.0,-26.0,4.36,4.38,9.88,-25.46,4.38
+Ketoprofen,Pain,9.75,13.375,-26.0,4.36,4.38,9.88,-25.46,4.38
+Ketoprofen,Rheumatoid Arthritis,8.5,8.0,-26.0,4.36,4.38,9.88,-25.46,4.38
+Labetalol,High Blood Pressure,7.0,69.0,-92.0,3.97,3.35,40.25,-48.99,3.18
+Lansoprazole,Aspiration Pneumonia,5.0,1.0,-54.0,4.62,4.01,54.67,-184.99,3.79
+Lansoprazole,Barrett's Esophagus,10.0,18.5,-54.0,4.62,4.01,54.67,-184.99,3.79
+Lansoprazole,Erosive Esophagitis,10.0,19.4,-54.0,4.62,4.01,54.67,-184.99,3.79
+Lansoprazole,GERD,7.951219512195122,25.414634146341463,-54.0,4.62,4.01,54.67000000000001,-184.99,3.7900000000000005
+Lansoprazole,Gastritis/Duodenitis,10.0,1.0,-54.0,4.62,4.01,54.67,-184.99,3.79
+Lansoprazole,Helicobacter Pylori Infection,8.0,7.0,-54.0,4.62,4.01,54.67,-184.99,3.79
+Lansoprazole,Stomach Ulce,6.75,16.5,-54.0,4.62,4.01,54.67,-184.99,3.79
+Levofloxacin,Bacterial Infection,5.08,15.76,-8.0,3.67,2.46,192.67,-155.85,2.0
+Levofloxacin,Bladder Infection,4.333333333333333,12.88888888888889,-8.0,3.67,2.46,192.67,-155.85,2.0
+Levofloxacin,Bronchitis,5.625,25.34375,-8.0,3.67,2.46,192.67,-155.85,2.0
+Levofloxacin,Kidney Infections,6.818181818181818,22.545454545454547,-8.0,3.67,2.46,192.67,-155.85,2.0
+Levofloxacin,Not Listed / Othe,5.6,2.6,-8.0,3.6700000000000004,2.46,192.67,-155.85,2.0
+Levofloxacin,Otitis Media,2.75,12.0,-8.0,3.67,2.46,192.67,-155.85,2.0
+Levofloxacin,Pneumonia,5.104477611940299,22.19402985074627,-8.0,3.67,2.46,192.67,-155.85,2.0
+Levofloxacin,Prostatitis,3.6666666666666665,15.0,-8.0,3.67,2.46,192.67,-155.85,2.0
+Levofloxacin,Sinusitis,5.380434782608695,24.358695652173914,-8.0,3.67,2.46,192.67,-155.85,2.0
+Levofloxacin,Skin or Soft Tissue Infection,2.5714285714285716,6.142857142857143,-8.0,3.6699999999999995,2.46,192.67,-155.85,2.0
+Levofloxacin,Streptococcal Infection,7.25,25.0,-8.0,3.67,2.46,192.67,-155.85,2.0
+Levofloxacin,Urinary Tract Infection,5.28,30.96,-8.0,3.67,2.46,192.67,-155.85,2.0
+Levonorgestrel,Abnormal Uterine Bleeding,5.322463768115942,14.652173913043478,-74.0,4.18,4.11,43.34,-30.99,2.8
+Levonorgestrel,Birth Control,7.061061531235322,7.9173320807891026,-74.0,4.18,4.11,43.34,-30.989999999999995,2.8
+Levonorgestrel,Emergency Contraception,8.472563472563472,13.138411138411138,-74.0,4.18,4.11,43.34,-30.990000000000002,2.8
+Levonorgestrel,Not Listed / Othe,7.0,1.0,-74.0,4.18,4.11,43.34,-30.99,2.8
+Lidocaine,Anesthesia,3.0,8.0,-62.0,3.8899999999999997,4.04,9.78,-214.66,3.91
+Lidocaine,"Burns, External",10.0,21.0,-62.0,3.89,4.04,9.78,-214.66,3.91
+Lidocaine,Costochondritis,10.0,10.0,-62.0,3.89,4.04,9.78,-214.66,3.91
+Lidocaine,Hemorrhoids,7.0,8.833333333333334,-62.0,3.89,4.04,9.78,-214.66,3.91
+Lidocaine,Manscaping Pain,10.0,1.0,-62.0,3.89,4.04,9.78,-214.66,3.91
+Lidocaine,Neuropathic Pain,4.375,9.25,-62.0,3.89,4.04,9.78,-214.66,3.91
+Lidocaine,Pain,5.117647058823529,24.985294117647058,-62.0,3.8899999999999997,4.04,9.78,-214.66,3.91
+Lidocaine,Postherpetic Neuralgia,2.3333333333333335,12.0,-62.0,3.89,4.04,9.78,-214.66,3.91
+Lidocaine,Sunburn,5.5,1.0,-62.0,3.89,4.04,9.78,-214.66,3.91
+Lisinopril,Coronary Artery Disease,2.0,39.0,-36.0,4.07,3.58,1530.5,-18.89,2.83
+Lisinopril,Diabetic Kidney Disease,6.25,17.875,-36.0,4.07,3.58,1530.5,-18.89,2.83
+Lisinopril,Heart Attack,4.5,70.5,-36.0,4.07,3.58,1530.5,-18.89,2.83
+Lisinopril,Heart Failure,9.5,10.5,-36.0,4.07,3.58,1530.5,-18.89,2.83
+Lisinopril,High Blood Pressure,5.15530303030303,47.30681818181818,-36.0,4.07,3.58,1530.5,-18.89,2.83
+Lisinopril,Migraine Prevention,8.9,28.2,-36.0,4.07,3.5799999999999996,1530.5,-18.89,2.83
+Lisinopril,Not Listed / Othe,6.6,26.8,-36.0,4.07,3.5799999999999996,1530.5,-18.89,2.83
+Losartan,Diabetic Kidney Disease,8.5,75.0,-44.0,3.93,3.28,388.25,-86.49,2.74
+Losartan,High Blood Pressure,5.524096385542169,68.46385542168674,-44.0,3.93,3.2800000000000002,388.25,-86.49,2.74
+Losartan,Not Listed / Othe,8.0,16.0,-44.0,3.93,3.28,388.25,-86.49,2.74
+Lovastatin,High Cholesterol,4.5,21.0,-78.0,3.49,3.11,38.53,-544.2,3.01
+Lovastatin,"High Cholesterol, Familial Heterozygous",6.666666666666667,31.666666666666668,-78.0,3.49,3.11,38.53,-544.2,3.01
+Maprotiline,Depression,10.0,21.0,-54.0,3.32,3.85,6.5,-71.99,3.72
+Maprotiline,Major Depressive Disorde,10.0,13.0,-54.0,3.32,3.85,6.5,-71.99,3.72
+Maprotiline,Panic Disorde,7.333333333333333,19.666666666666668,-54.0,3.32,3.85,6.5,-71.99,3.72
+Meclizine,Motion Sickness,8.555555555555555,24.0,-34.0,3.98,3.32,17.26,-19.789999999999996,3.07
+Meclizine,Nausea/Vomiting,9.0,26.0,-34.0,3.98,3.32,17.26,-19.79,3.07
+Meclizine,Not Listed / Othe,7.0,12.5,-34.0,3.98,3.32,17.26,-19.79,3.07
+Meclizine,Vertig,7.3108108108108105,54.729729729729726,-34.0,3.9799999999999995,3.32,17.26,-19.79,3.07
+Meloxicam,Inflammatory Conditions,6.868131868131868,48.86813186813187,-36.0,4.2,3.4199999999999995,813.0,-32.99,3.12
+Meloxicam,Juvenile Rheumatoid Arthritis,1.0,9.0,-36.0,4.2,3.42,813.0,-32.99,3.12
+Meloxicam,Not Listed / Othe,9.6,12.2,-36.0,4.2,3.4200000000000004,813.0,-32.99,3.12
+Meloxicam,Osteoarthritis,7.333333333333333,56.735632183908045,-36.0,4.2,3.4200000000000004,813.0,-32.99,3.12
+Meloxicam,Rheumatoid Arthritis,6.04,44.6,-36.0,4.2,3.42,813.0,-32.99,3.12
+Meloxicam,Tendonitis,6.9375,51.0,-36.0,4.2,3.42,813.0,-32.99,3.12
+Meloxicam,ibromyalgia,7.35,53.25,-36.0,4.2,3.4200000000000004,813.0,-32.99,3.12
+Meropenem,Skin or Soft Tissue Infection,8.0,1.0,-2.0,3.0,5.0,9.0,-15.99,4.0
+Methyldopa,High Blood Pressure,8.333333333333334,4.333333333333333,-22.0,4.3,4.17,12.0,-69.14,3.6
+Methyldopa,Hypertensive Emergency,5.0,5.0,-22.0,4.3,4.17,12.0,-69.14,3.6
+Methylprednisolone,Allergic Rhinitis,4.545454545454546,13.090909090909092,-52.0,3.24,3.1899999999999995,81.48,-25.16,2.8
+Methylprednisolone,Asthma,8.333333333333334,11.333333333333334,-52.0,3.24,3.19,81.48,-25.16,2.7999999999999994
+Methylprednisolone,"Asthma, Maintenance",10.0,5.0,-52.0,3.24,3.19,81.48,-25.16,2.8
+Methylprednisolone,"Asthma, acute",8.428571428571429,21.571428571428573,-52.0,3.2399999999999998,3.19,81.48,-25.16,2.8
+Methylprednisolone,Atopic Dermatitis,10.0,52.0,-52.0,3.24,3.19,81.48,-25.16,2.8
+Methylprednisolone,Dermatologic Lesion,8.5,17.5,-52.0,3.24,3.19,81.48,-25.16,2.8
+Methylprednisolone,"Gout, Acute",8.947368421052632,24.736842105263158,-52.0,3.24,3.19,81.48,-25.16,2.8
+Methylprednisolone,Immunosuppression,7.333333333333333,3.0,-52.0,3.24,3.19,81.48,-25.16,2.7999999999999994
+Methylprednisolone,Inflammatory Conditions,7.475609756097561,40.170731707317074,-52.0,3.24,3.19,81.48,-25.16,2.8
+Methylprednisolone,Neuralgia,7.0,13.333333333333334,-52.0,3.24,3.19,81.48,-25.16,2.7999999999999994
+Methylprednisolone,Not Listed / Othe,3.6666666666666665,12.333333333333334,-52.0,3.24,3.19,81.48,-25.16,2.7999999999999994
+Methylprednisolone,Osteoarthritis,8.4,36.0,-52.0,3.2400000000000007,3.19,81.48,-25.16,2.8
+Methylprednisolone,Rheumatoid Arthritis,8.5,24.8,-52.0,3.2400000000000007,3.19,81.48,-25.16,2.8
+Metoclopramide,GERD,5.181818181818182,14.181818181818182,-38.0,4.3,3.57,81.67,-125.61,3.0899999999999994
+Metoclopramide,Gastroparesis,5.7368421052631575,41.68421052631579,-38.0,4.3,3.57,81.67,-125.61000000000001,3.09
+Metoclopramide,Lactation Augmentation,6.8,4.4,-38.0,4.3,3.5699999999999994,81.67,-125.60999999999999,3.09
+Metoclopramide,Migraine,4.830508474576271,11.661016949152541,-38.0,4.3,3.57,81.67,-125.61,3.09
+Metoclopramide,Nausea/Vomiting,3.7777777777777777,15.511111111111111,-38.0,4.3,3.5700000000000003,81.67,-125.61,3.0899999999999994
+Metoclopramide,"Nausea/Vomiting, Chemotherapy Induced",10.0,2.0,-38.0,4.3,3.57,81.67,-125.61,3.09
+Metoclopramide,"Nausea/Vomiting, Postoperative",10.0,21.0,-38.0,4.3,3.57,81.67,-125.61,3.09
+Metoclopramide,Not Listed / Othe,8.0,1.0,-38.0,4.3,3.57,81.67,-125.61,3.09
+Metolazone,Edema,5.0,48.0,-78.0,4.01,3.44,19.0,-63.99,2.76
+Metoprolol,Angina,7.0,12.8,-134.0,3.8899999999999997,3.6399999999999997,271.75,-253.06,3.08
+Metoprolol,Atrial Fibrillation,6.081081081081081,32.810810810810814,-134.0,3.89,3.64,271.75,-253.05999999999997,3.08
+Metoprolol,Benign Essential Trem,7.333333333333333,44.0,-134.0,3.89,3.64,271.75,-253.06000000000003,3.08
+Metoprolol,Heart Attack,6.285714285714286,39.0,-134.0,3.89,3.64,271.75,-253.06,3.0800000000000005
+Metoprolol,High Blood Pressure,6.293478260869565,46.16304347826087,-134.0,3.89,3.64,271.75,-253.06,3.08
+Metoprolol,Left Ventricular Dysfunction,6.5,12.5,-134.0,3.89,3.64,271.75,-253.06,3.08
+Metoprolol,Migraine Prevention,8.1,24.3,-134.0,3.8899999999999997,3.6399999999999997,271.75,-253.06,3.08
+Metoprolol,Mitral Valve Prolapse,8.444444444444445,13.11111111111111,-134.0,3.8899999999999997,3.6399999999999997,271.75,-253.06,3.08
+Metoprolol,Not Listed / Othe,7.2,11.8,-134.0,3.8899999999999997,3.6399999999999997,271.75,-253.06,3.08
+Metoprolol,Premature Ventricular Depolarizations,7.0,20.8,-134.0,3.8899999999999997,3.6399999999999997,271.75,-253.06,3.08
+Metoprolol,Supraventricular Tachycardia,7.0,41.38461538461539,-134.0,3.89,3.64,271.75,-253.06,3.08
+Metronidazole,Amebiasis,2.6666666666666665,1.3333333333333333,-8.0,2.13,2.37,120.59999999999998,-22.49,1.9799999999999998
+Metronidazole,Bacterial Infection,6.447115384615385,12.596153846153847,-8.0,2.13,2.37,120.6,-22.490000000000002,1.98
+Metronidazole,Bacterial Vaginitis,7.052369077306733,11.982543640897756,-8.0,2.13,2.37,120.6,-22.49,1.98
+Metronidazole,Bone infection,6.0,8.666666666666666,-8.0,2.13,2.37,120.59999999999998,-22.49,1.9799999999999998
+Metronidazole,Clostridial Infection,5.2631578947368425,9.842105263157896,-8.0,2.13,2.37,120.60000000000001,-22.49,1.9799999999999998
+Metronidazole,"Crohn's Disease, Acute",7.0,5.25,-8.0,2.13,2.37,120.6,-22.49,1.98
+Metronidazole,"Crohn's Disease, Maintenance",9.0,2.5,-8.0,2.13,2.37,120.6,-22.49,1.98
+Metronidazole,Deep Neck Infection,9.0,1.0,-8.0,2.13,2.37,120.6,-22.49,1.98
+Metronidazole,Dental Abscess,6.775862068965517,23.96551724137931,-8.0,2.13,2.37,120.6,-22.49,1.98
+Metronidazole,Diverticulitis,6.8765432098765435,36.60493827160494,-8.0,2.13,2.37,120.60000000000001,-22.49,1.98
+Metronidazole,Giardiasis,5.818181818181818,7.363636363636363,-8.0,2.13,2.37,120.6,-22.49,1.9800000000000002
+Metronidazole,Helicobacter Pylori Infection,6.181818181818182,10.0,-8.0,2.13,2.37,120.6,-22.49,1.9800000000000002
+Metronidazole,Intraabdominal Infection,3.5,1.0,-8.0,2.13,2.37,120.6,-22.49,1.98
+Metronidazole,Not Listed / Othe,6.333333333333333,2.3333333333333335,-8.0,2.13,2.37,120.59999999999998,-22.49,1.9799999999999998
+Metronidazole,Pelvic Inflammatory Disease,4.714285714285714,4.142857142857143,-8.0,2.13,2.37,120.6,-22.49,1.98
+Metronidazole,Perioral Dermatitis,8.0,15.0,-8.0,2.13,2.37,120.6,-22.49,1.98
+Metronidazole,Pseudomembranous Colitis,7.0,2.3333333333333335,-8.0,2.13,2.37,120.59999999999998,-22.49,1.9799999999999998
+Metronidazole,Rosacea,6.947368421052632,28.105263157894736,-8.0,2.13,2.37,120.60000000000001,-22.49,1.9799999999999998
+Metronidazole,STD Prophylaxis,5.0,1.0,-8.0,2.13,2.37,120.6,-22.49,1.98
+Metronidazole,Skin or Soft Tissue Infection,5.5,4.5,-8.0,2.13,2.37,120.59999999999998,-22.49,1.9799999999999998
+Metronidazole,Surgical Prophylaxis,9.0,1.0,-8.0,2.13,2.37,120.6,-22.49,1.98
+Metronidazole,Trichomoniasis,7.803571428571429,19.714285714285715,-8.0,2.13,2.37,120.6,-22.49,1.98
+Milnacipran,Reflex Sympathetic Dystrophy Syndrome,7.0,17.25,-8.0,4.29,3.57,9.0,-477.99,3.57
+Milnacipran,ibromyalgia,6.65,44.465,-8.0,4.29,3.57,9.0,-477.99,3.57
+Milnacipran,m Pain Disorde,10.0,1.0,-8.0,4.29,3.57,9.0,-477.99,3.57
+Minocycline,Acne,6.387931034482759,12.538793103448276,-82.0,3.76,3.46,108.5,-40.1,2.7
+Minocycline,Bacterial Infection,1.0,7.0,-82.0,3.76,3.46,108.5,-40.1,2.7
+Minocycline,Not Listed / Othe,8.0,1.0,-82.0,3.76,3.46,108.5,-40.1,2.7
+Minocycline,Periodontitis,7.0,14.0,-82.0,3.76,3.46,108.5,-40.1,2.7
+Minocycline,Rheumatoid Arthritis,4.0,1.0,-82.0,3.76,3.46,108.5,-40.1,2.7
+Minocycline,Rosacea,8.357142857142858,17.0,-82.0,3.7600000000000002,3.46,108.5,-40.1,2.7
+Minocycline,Skin and Structure Infection,1.0,1.0,-82.0,3.76,3.46,108.5,-40.1,2.7
+Minocycline,Skin or Soft Tissue Infection,4.5,6.0,-82.0,3.76,3.4599999999999995,108.5,-40.1,2.7000000000000006
+Minoxidil,Alopecia,6.891304347826087,61.21739130434783,-36.0,3.54,3.21,30.0,-87.3,2.89
+Minoxidil,High Blood Pressure,9.0,2.0,-36.0,3.54,3.21,30.0,-87.3,2.89
+Minoxidil,Not Listed / Othe,2.5,41.0,-36.0,3.54,3.21,30.0,-87.3,2.89
+Minoxidil,Women (minoxidil),1.0,14.0,-36.0,3.54,3.21,30.0,-87.3,2.89
+Mirtazapine,Anxiety,7.093959731543624,56.70469798657718,-228.0,4.15,3.29,316.33,-52.99,2.99
+Mirtazapine,Depression,7.248780487804878,43.6,-228.0,4.15,3.29,316.33,-52.99,2.99
+Mirtazapine,Hot Flashes,6.0,53.0,-228.0,4.15,3.29,316.33,-52.99,2.99
+Mirtazapine,Insomnia,7.2727272727272725,51.77685950413223,-228.0,4.15,3.2900000000000005,316.33,-52.99,2.99
+Mirtazapine,Major Depressive Disorde,6.825,29.625,-228.0,4.15,3.29,316.33,-52.989999999999995,2.99
+Mirtazapine,Not Listed / Othe,5.5,12.5,-228.0,4.15,3.29,316.33,-52.99,2.99
+Mirtazapine,Obsessive Compulsive Disorde,7.875,29.25,-228.0,4.15,3.29,316.33,-52.99,2.99
+Mirtazapine,Post Traumatic Stress Disorde,6.875,20.5,-228.0,4.15,3.29,316.33,-52.99,2.99
+Modafinil,ADHD,8.75,51.125,-58.0,4.64,4.15,334.0,-849.99,3.94
+Modafinil,Chronic Fatigue Syndrome,7.6,39.25,-58.0,4.64,4.15,334.0,-849.99,3.94
+Modafinil,Depression,7.961538461538462,40.26923076923077,-58.0,4.64,4.15,334.0,-849.99,3.94
+Modafinil,Hypersomnia,5.571428571428571,5.0,-58.0,4.64,4.15,334.0,-849.99,3.94
+Modafinil,Multiple Sclerosis,9.23076923076923,36.23076923076923,-58.0,4.64,4.15,334.0,-849.99,3.94
+Modafinil,Narcolepsy,6.814285714285714,25.071428571428573,-58.0,4.64,4.15,334.0,-849.99,3.94
+Modafinil,Not Listed / Othe,10.0,4.0,-58.0,4.64,4.15,334.0,-849.99,3.94
+Modafinil,Obstructive Sleep Apnea/Hypopnea Syndrome,8.352941176470589,24.705882352941178,-58.0,4.64,4.15,334.0,-849.99,3.9400000000000004
+Modafinil,Shift Work Sleep Disorde,8.153846153846153,31.615384615384617,-58.0,4.64,4.15,334.0,-849.99,3.94
+Modafinil,atigue,8.708333333333334,21.458333333333332,-58.0,4.64,4.15,334.0,-849.9900000000001,3.94
+Moexipril,High Blood Pressure,8.0,2.5,-42.0,3.96,4.5,4.5,-32.99,3.71
+Moxifloxacin,Bacterial Infection,5.411764705882353,9.882352941176471,-22.0,2.83,2.89,108.94,-99.99,2.44
+Moxifloxacin,Bronchitis,6.7272727272727275,16.681818181818183,-22.0,2.83,2.89,108.94,-99.99,2.44
+Moxifloxacin,"Conjunctivitis, Bacterial",6.75,9.375,-22.0,2.83,2.89,108.94,-99.99,2.44
+Moxifloxacin,Intraabdominal Infection,8.0,9.0,-22.0,2.83,2.89,108.94,-99.99,2.44
+Moxifloxacin,Ophthalmic Surgery,6.666666666666667,31.0,-22.0,2.83,2.89,108.94,-99.99,2.44
+Moxifloxacin,Pneumonia,8.333333333333334,20.166666666666668,-22.0,2.83,2.89,108.94,-99.99,2.44
+Moxifloxacin,Prostatitis,7.0,64.66666666666667,-22.0,2.83,2.89,108.94,-99.99,2.44
+Moxifloxacin,Sinusitis,6.585365853658536,16.78048780487805,-22.0,2.83,2.89,108.94,-99.99000000000001,2.44
+Moxifloxacin,Skin and Structure Infection,8.0,1.0,-22.0,2.83,2.89,108.94,-99.99,2.44
+Nadolol,Angina,10.0,9.0,-46.0,4.62,4.5,39.5,-70.99,4.22
+Nadolol,Anxiety,6.0,18.0,-46.0,4.62,4.5,39.5,-70.99,4.22
+Nadolol,Benign Essential Trem,9.666666666666666,9.666666666666666,-46.0,4.62,4.5,39.5,-70.99,4.22
+Nadolol,Esophageal Variceal Hemorrhage Prophylaxis,9.0,7.666666666666667,-46.0,4.62,4.5,39.5,-70.99,4.22
+Nadolol,Migraine Prevention,7.3,19.4,-46.0,4.62,4.5,39.5,-70.99,4.22
+Nadolol,Supraventricular Tachycardia,9.0,21.5,-46.0,4.62,4.5,39.5,-70.99,4.22
+Naproxen,Ankylosing Spondylitis,5.75,7.25,-34.0,4.21,3.33,132.33,-43.33,3.12
+Naproxen,Back Pain,5.8,22.618181818181817,-34.0,4.21,3.33,132.33,-43.33,3.12
+Naproxen,Bursitis,7.0,24.0,-34.0,4.21,3.33,132.33,-43.33,3.12
+Naproxen,Chronic Myofascial Pain,3.0,1.0,-34.0,4.21,3.33,132.33,-43.33,3.12
+Naproxen,Costochondritis,10.0,13.5,-34.0,4.21,3.33,132.33,-43.33,3.12
+Naproxen,"Gout, Acute",8.454545454545455,37.45454545454545,-34.0,4.21,3.33,132.33,-43.33,3.12
+Naproxen,Headache,8.428571428571429,26.142857142857142,-34.0,4.21,3.3300000000000005,132.33,-43.33,3.1199999999999997
+Naproxen,Juvenile Rheumatoid Arthritis,3.6666666666666665,6.0,-34.0,4.21,3.33,132.33,-43.330000000000005,3.1199999999999997
+Naproxen,Muscle Pain,6.4,13.2,-34.0,4.21,3.3299999999999996,132.33,-43.33,3.12
+Naproxen,Neck Pain,1.0,5.0,-34.0,4.21,3.33,132.33,-43.33,3.12
+Naproxen,Osteoarthritis,6.583333333333333,29.75,-34.0,4.21,3.33,132.33,-43.330000000000005,3.1199999999999997
+Naproxen,Pain,6.795918367346939,13.142857142857142,-34.0,4.21,3.3300000000000005,132.33,-43.33,3.12
+Naproxen,Period Pain,8.113636363636363,22.272727272727273,-34.0,4.21,3.33,132.33,-43.33,3.12
+Naproxen,Rheumatoid Arthritis,6.6875,39.5,-34.0,4.21,3.33,132.33,-43.33,3.12
+Naproxen,Sciatica,6.5,42.708333333333336,-34.0,4.21,3.33,132.33,-43.330000000000005,3.1199999999999997
+Naproxen,Tendonitis,5.9375,20.4375,-34.0,4.21,3.33,132.33,-43.33,3.12
+Naproxen,zen Shoulde,2.6666666666666665,15.333333333333334,-34.0,4.21,3.33,132.33,-43.330000000000005,3.1199999999999997
+Nebivolol,High Blood Pressure,6.763636363636364,43.63636363636363,-24.0,4.13,3.64,458.0,-180.99,3.24
+Nebivolol,Mitral Valve Prolapse,8.4,33.8,-24.0,4.13,3.6399999999999997,458.0,-180.99,3.2400000000000007
+Nebivolol,Not Listed / Othe,8.5,1.0,-24.0,4.13,3.64,458.0,-180.99,3.24
+Niacin,Depression,9.857142857142858,84.14285714285714,-30.0,2.97,3.37,32.75,-567.02,3.06
+Niacin,High Cholesterol,6.214285714285714,19.642857142857142,-30.0,2.97,3.37,32.75,-567.02,3.06
+Niacin,Hyperlipoproteinemia,9.0,7.0,-30.0,2.97,3.37,32.75,-567.02,3.06
+Niacin,"Hyperlipoproteinemia Type IV, Elevated VLDL",8.0,22.0,-30.0,2.97,3.37,32.75,-567.02,3.06
+Niacin,Niacin Deficiency,2.0,2.0,-30.0,2.97,3.37,32.75,-567.02,3.06
+Nifedipine,High Blood Pressure,5.9411764705882355,27.647058823529413,-32.0,4.03,3.73,45.71,-36.66,2.99
+Nifedipine,Hypertensive Emergency,9.0,6.0,-32.0,4.03,3.73,45.71,-36.66,2.99
+Nifedipine,Not Listed / Othe,3.0,11.0,-32.0,4.03,3.73,45.71,-36.66,2.99
+Nifedipine,Premature Lab,7.5,6.0,-32.0,4.03,3.73,45.71,-36.66,2.99
+Nifedipine,Raynaud's Syndrome,7.833333333333333,20.166666666666668,-32.0,4.03,3.73,45.71,-36.66,2.99
+Nisoldipine,Raynaud's Syndrome,1.0,2.0,-110.0,3.88,3.16,24.5,-162.99,2.58
+Nitrofurantoin,Bladder Infection,4.561643835616438,24.63013698630137,-6.0,3.39,3.45,175.61,-339.16,2.71
+Nitrofurantoin,Prevention of Bladder infection,7.111111111111111,37.97222222222222,-6.0,3.39,3.45,175.61,-339.16,2.71
+Nitrofurantoin,Urinary Tract Infection,4.817610062893082,16.19496855345912,-6.0,3.39,3.4500000000000006,175.61,-339.16,2.71
+Nizatidine,GERD,10.0,8.5,-26.0,4.5,4.0,6.0,-145.99,4.0
+Nizatidine,Stomach Ulce,10.0,6.0,-26.0,4.5,4.0,6.0,-145.99,4.0
+Norethindrone,Abnormal Uterine Bleeding,4.064516129032258,14.290322580645162,-66.0,4.19,3.89,51.0,-81.07,2.98
+Norethindrone,Amenorrhea,6.5,3.75,-66.0,4.19,3.89,51.0,-81.07,2.98
+Norethindrone,Birth Control,5.328402366863905,11.068047337278106,-66.0,4.19,3.8899999999999997,51.0,-81.07,2.98
+Norethindrone,Endometriosis,5.714285714285714,16.523809523809526,-66.0,4.19,3.8899999999999997,51.0,-81.07,2.98
+Norethindrone,Not Listed / Othe,5.5,2.0,-66.0,4.19,3.89,51.0,-81.07,2.98
+Nortriptyline,Cyclic Vomiting Syndrome,8.6,9.0,-102.0,3.97,3.22,195.67,-175.49,2.98
+Nortriptyline,Depression,6.882352941176471,30.88235294117647,-102.0,3.9700000000000006,3.22,195.67,-175.49,2.98
+Nortriptyline,Diabetic Peripheral Neuropathy,1.0,17.5,-102.0,3.97,3.22,195.67,-175.49,2.98
+Nortriptyline,Irritable Bowel Syndrome,8.736842105263158,27.789473684210527,-102.0,3.97,3.22,195.67,-175.49,2.98
+Nortriptyline,Migraine Prevention,8.163636363636364,38.93636363636364,-102.0,3.97,3.22,195.67,-175.49,2.98
+Nortriptyline,Neuralgia,8.142857142857142,33.0,-102.0,3.97,3.22,195.67,-175.49,2.98
+Nortriptyline,Neurosis,6.0,11.5,-102.0,3.97,3.22,195.67,-175.49,2.98
+Nortriptyline,Not Listed / Othe,6.0,2.0,-102.0,3.97,3.22,195.67,-175.49,2.98
+Nortriptyline,Pain,6.983333333333333,112.91666666666667,-102.0,3.97,3.22,195.67,-175.49000000000004,2.98
+Nortriptyline,Panic Disorde,9.5,66.0,-102.0,3.97,3.22,195.67,-175.49,2.98
+Nortriptyline,Postherpetic Neuralgia,10.0,34.0,-102.0,3.97,3.22,195.67,-175.49,2.98
+Nortriptyline,Primary Nocturnal Enuresis,8.0,2.0,-102.0,3.97,3.22,195.67,-175.49,2.98
+Nortriptyline,Reflex Sympathetic Dystrophy Syndrome,7.0,21.0,-102.0,3.97,3.22,195.67,-175.49,2.98
+Nortriptyline,Smoking Cessation,9.5,31.5,-102.0,3.97,3.22,195.67,-175.49,2.98
+Nortriptyline,Vulvodynia,7.5,16.5,-102.0,3.97,3.22,195.67,-175.49,2.98
+Ofloxacin,Campylobacter Gastroenteritis,10.0,7.0,-14.0,3.35,1.55,7.0,-79.99,1.45
+Ofloxacin,Corneal Ulce,9.0,15.0,-14.0,3.35,1.55,7.0,-79.99,1.45
+Ofloxacin,Otitis Media,1.0,1.0,-14.0,3.35,1.55,7.0,-79.99,1.45
+Ofloxacin,Traveler's Diarrhea,1.0,1.0,-14.0,3.35,1.55,7.0,-79.99,1.45
+Ofloxacin,Urinary Tract Infection,10.0,4.0,-14.0,3.35,1.55,7.0,-79.99,1.45
+Olmesartan,High Blood Pressure,7.597222222222222,38.25,-56.0,4.36,3.8400000000000003,181.75,-201.99,3.35
+Olmesartan,Migraine Prevention,9.5,33.0,-56.0,4.36,3.84,181.75,-201.99,3.35
+Omeprazole,Barrett's Esophagus,9.8,24.2,-68.0,4.41,3.9799999999999995,161.86,-41.75,3.53
+Omeprazole,Duodenal Ulce,8.5,15.5,-68.0,4.41,3.98,161.86,-41.75,3.53
+Omeprazole,Erosive Esophagitis,9.333333333333334,25.333333333333332,-68.0,4.41,3.98,161.86,-41.75,3.53
+Omeprazole,GERD,7.933333333333334,33.38333333333333,-68.0,4.41,3.98,161.86,-41.75,3.53
+Omeprazole,Gastritis/Duodenitis,10.0,8.0,-68.0,4.41,3.98,161.86,-41.75,3.53
+Omeprazole,Helicobacter Pylori Infection,6.0,20.0,-68.0,4.41,3.98,161.86,-41.75,3.53
+Omeprazole,Indigestion,8.571428571428571,23.571428571428573,-68.0,4.41,3.98,161.85999999999999,-41.75,3.53
+Omeprazole,Multiple Endocrine Adenomas,10.0,1.0,-68.0,4.41,3.98,161.86,-41.75,3.53
+Omeprazole,Stomach Ulce,5.0,9.166666666666666,-68.0,4.41,3.98,161.86,-41.75,3.53
+Omeprazole,Zollinger-Ellison Syndrome,10.0,43.0,-68.0,4.41,3.98,161.86,-41.75,3.53
+Oxaliplatin,Colorectal Cance,6.0,16.0,-16.0,3.9,4.5,16.0,-2049.59,2.9
+Oxaprozin,Osteoarthritis,8.5,21.0,-24.0,4.18,3.4,58.5,-193.99,3.2
+Oxaprozin,Rheumatoid Arthritis,5.5,14.25,-24.0,4.18,3.4,58.5,-193.99,3.2
+Paclitaxel,"Breast Cancer, Metastatic",7.5,23.0,-24.0,3.0,3.59,14.0,-10362.19,3.38
+Paclitaxel,Ovarian Cance,7.5,32.0,-24.0,3.0,3.59,14.0,-10362.19,3.38
+Paliperidone,Autism,10.0,13.0,-46.0,4.56,4.36,92.0,-826.99,4.2
+Paliperidone,Bipolar Disorde,6.933333333333334,22.466666666666665,-46.0,4.56,4.36,92.0,-826.99,4.2
+Paliperidone,Depression,7.0,15.0,-46.0,4.56,4.36,92.0,-826.9900000000001,4.2
+Paliperidone,Schizoaffective Disorde,6.151515151515151,21.606060606060606,-46.0,4.56,4.36,92.0,-826.99,4.2
+Paliperidone,Schizophrenia,6.019607843137255,16.686274509803923,-46.0,4.56,4.36,92.0,-826.99,4.2
+Pantoprazole,Barrett's Esophagus,8.333333333333334,41.333333333333336,-90.0,4.64,4.31,152.5,-102.99,4.15
+Pantoprazole,Duodenal Ulce,6.5,23.75,-90.0,4.64,4.31,152.5,-102.99,4.15
+Pantoprazole,Erosive Esophagitis,7.142857142857143,20.857142857142858,-90.0,4.64,4.31,152.5,-102.99,4.15
+Pantoprazole,GERD,6.333333333333333,36.833333333333336,-90.0,4.64,4.31,152.5,-102.99,4.15
+Pantoprazole,Gastritis/Duodenitis,9.5,24.0,-90.0,4.64,4.31,152.5,-102.99,4.15
+Pantoprazole,Helicobacter Pylori Infection,3.0,7.5,-90.0,4.64,4.31,152.5,-102.99,4.15
+Pantoprazole,Peptic Ulce,10.0,5.0,-90.0,4.64,4.31,152.5,-102.99,4.15
+Pantoprazole,Stomach Ulce,6.8,39.6,-90.0,4.64,4.31,152.5,-102.99,4.15
+Pantoprazole,Stress Ulcer Prophylaxis,1.0,3.0,-90.0,4.64,4.31,152.5,-102.99,4.15
+Paroxetine,Anxiety,7.430303030303031,52.27878787878788,-244.0,4.24,3.45,405.5,-99.74,3.06
+Paroxetine,Anxiety and Stress,6.6521739130434785,36.73913043478261,-244.0,4.24,3.45,405.5,-99.74,3.06
+Paroxetine,Depression,6.661764705882353,31.705882352941178,-244.0,4.24,3.45,405.5,-99.74,3.06
+Paroxetine,Dysautonomia,8.0,16.0,-244.0,4.24,3.45,405.5,-99.74,3.06
+Paroxetine,Generalized Anxiety Disorde,7.978260869565218,28.76086956521739,-244.0,4.24,3.45,405.5,-99.74,3.0599999999999996
+Paroxetine,Hot Flashes,7.446428571428571,34.964285714285715,-244.0,4.24,3.45,405.5,-99.74,3.06
+Paroxetine,Major Depressive Disorde,6.533333333333333,13.6,-244.0,4.24,3.45,405.5,-99.74,3.06
+Paroxetine,Not Listed / Othe,10.0,1.0,-244.0,4.24,3.45,405.5,-99.74,3.06
+Paroxetine,Obsessive Compulsive Disorde,7.470588235294118,42.23529411764706,-244.0,4.24,3.45,405.5,-99.74,3.06
+Paroxetine,Panic Disorde,7.734375,26.234375,-244.0,4.24,3.45,405.5,-99.74,3.06
+Paroxetine,Post Traumatic Stress Disorde,7.214285714285714,21.928571428571427,-244.0,4.24,3.45,405.5,-99.74,3.06
+Paroxetine,Postmenopausal Symptoms,7.5,3.25,-244.0,4.24,3.45,405.5,-99.74,3.06
+Paroxetine,Postpartum Depression,6.6,8.6,-244.0,4.24,3.45,405.5,-99.74,3.06
+Paroxetine,Premenstrual Dysphoric Disorde,10.0,15.0,-244.0,4.24,3.45,405.5,-99.74,3.06
+Paroxetine,Social Anxiety Disorde,8.104166666666666,37.541666666666664,-244.0,4.24,3.4500000000000006,405.5,-99.74,3.06
+Paroxetine,Trichotillomania,10.0,15.0,-244.0,4.24,3.45,405.5,-99.74,3.06
+Perindopril,High Blood Pressure,6.222222222222222,15.0,-72.0,4.54,4.34,9.75,-112.26,3.7000000000000006
+Phenelzine,Depression,9.076923076923077,42.30769230769231,-230.0,3.89,3.68,47.0,-79.59,3.3500000000000005
+Phenelzine,Migraine Prevention,7.0,14.5,-230.0,3.89,3.68,47.0,-79.59,3.35
+Phenylephrine,Eye Redness,10.0,1.0,-68.0,4.19,4.04,2.22,-65.05,3.5
+Phenylephrine,Nasal Congestion,8.545454545454545,3.6363636363636362,-68.0,4.19,4.04,2.22,-65.05,3.5
+Phenylephrine,mulation) (phenylephrine),6.0,4.75,-68.0,4.19,4.04,2.22,-65.05,3.5
+Pimecrolimus,Atopic Dermatitis,7.0,7.75,-162.0,4.14,3.26,79.0,-15.49,3.17
+Pimecrolimus,Eczema,7.5,17.142857142857142,-162.0,4.14,3.2600000000000002,79.0,-15.49,3.1699999999999995
+Pimecrolimus,Perioral Dermatitis,6.666666666666667,4.333333333333333,-162.0,4.14,3.26,79.0,-15.49,3.17
+Pindolol,High Blood Pressure,3.0,1.0,-36.0,2.68,4.59,9.5,-57.99,2.22
+Piroxicam,Osteoarthritis,7.8,29.6,-56.0,4.14,3.88,85.5,-57.59000000000001,3.4900000000000007
+Piroxicam,Pain,7.4,14.8,-56.0,4.14,3.88,85.5,-57.59000000000001,3.4900000000000007
+Piroxicam,Rheumatoid Arthritis,8.75,13.0,-56.0,4.14,3.88,85.5,-57.59,3.49
+Piroxicam,Temporomandibular Joint Disorde,6.0,7.5,-56.0,4.14,3.88,85.5,-57.59,3.49
+Pitavastatin,High Cholesterol,6.068965517241379,52.241379310344826,-6.0,2.98,3.3,96.5,-365.39,2.58
+Pramipexole,Not Listed / Othe,9.0,2.0,-174.0,4.35,4.21,92.33,-255.99,3.89
+Pramipexole,Parkinson's Disease,4.833333333333333,24.666666666666668,-174.0,4.35,4.21,92.33,-255.99,3.89
+Pramipexole,Periodic Limb Movement Disorde,7.5,17.5,-174.0,4.35,4.21,92.33,-255.99,3.89
+Pramipexole,Restless Legs Syndrome,7.576470588235294,28.611764705882354,-174.0,4.35,4.21,92.33,-255.99,3.8900000000000006
+Pravastatin,High Cholesterol,4.681818181818182,86.0909090909091,-60.0,3.7,2.8,324.0,-74.49,2.02
+Pravastatin,"Hyperlipoproteinemia Type III, Elevated beta-VLDL   IDL",5.0,7.0,-60.0,3.7,2.8,324.0,-74.49,2.02
+Pravastatin,"Hyperlipoproteinemia Type IIa, Elevated LDL",2.0,15.0,-60.0,3.7,2.8,324.0,-74.49,2.02
+Prazosin,Anxiety and Stress,9.833333333333334,85.33333333333333,-78.0,4.2,3.76,57.5,-29.99,3.58
+Prazosin,Benign Prostatic Hyperplasia,3.5,10.5,-78.0,4.2,3.76,57.5,-29.99,3.58
+Prazosin,High Blood Pressure,4.333333333333333,15.166666666666666,-78.0,4.2,3.76,57.5,-29.99,3.58
+Prazosin,Nightmares,7.529411764705882,35.05882352941177,-78.0,4.2,3.76,57.5,-29.99,3.58
+Prazosin,Post Traumatic Stress Disorde,7.527777777777778,34.111111111111114,-78.0,4.2,3.76,57.5,-29.989999999999995,3.58
+Prazosin,Raynaud's Syndrome,9.5,3.0,-78.0,4.2,3.76,57.5,-29.99,3.58
+Prednisolone,"Asthma, acute",6.5,20.0,-66.0,3.32,2.74,5.5,-230.66,2.78
+Prednisolone,Dermatitis,7.8,15.8,-66.0,3.3199999999999994,2.74,5.5,-230.66,2.78
+Prednisolone,Immunosuppression,6.0,3.0,-66.0,3.32,2.74,5.5,-230.66,2.78
+Prednisolone,Inflammatory Conditions,4.166666666666667,8.5,-66.0,3.32,2.74,5.5,-230.66,2.78
+Prednisolone,Nephrotic Syndrome,9.0,1.0,-66.0,3.32,2.74,5.5,-230.66,2.78
+Prednisolone,Postoperative Ocular Inflammation,2.0,17.333333333333332,-66.0,3.32,2.74,5.5,-230.66,2.78
+Prednisone,Adrenocortical Insufficiency,10.0,1.0,-76.0,3.65,3.83,493.94,-277.49,2.68
+Prednisone,Allergic Reactions,7.6,29.95,-76.0,3.65,3.8299999999999996,493.93999999999994,-277.49,2.68
+Prednisone,Allergic Rhinitis,1.0,4.0,-76.0,3.65,3.83,493.94,-277.49,2.68
+Prednisone,Ankylosing Spondylitis,10.0,6.0,-76.0,3.65,3.83,493.94,-277.49,2.68
+Prednisone,Asthma,7.266666666666667,32.666666666666664,-76.0,3.65,3.83,493.94,-277.49,2.68
+Prednisone,Atopic Dermatitis,7.0,1.0,-76.0,3.65,3.83,493.94,-277.49,2.68
+Prednisone,Autoimmune Hemolytic Anemia,8.333333333333334,12.666666666666666,-76.0,3.65,3.83,493.94,-277.49,2.68
+Prednisone,Bullous Pemphigoid,10.0,4.0,-76.0,3.65,3.83,493.94,-277.49,2.68
+Prednisone,Bursitis,8.6,32.6,-76.0,3.65,3.8299999999999996,493.93999999999994,-277.49,2.68
+Prednisone,COPD,9.0,46.0,-76.0,3.65,3.8299999999999996,493.93999999999994,-277.49,2.68
+Prednisone,Cluster Headaches,9.166666666666666,15.333333333333334,-76.0,3.65,3.83,493.94,-277.49,2.68
+Prednisone,"Conjunctivitis, Allergic",9.0,6.0,-76.0,3.65,3.83,493.94,-277.49,2.68
+Prednisone,Eczema,7.285714285714286,33.714285714285715,-76.0,3.65,3.8300000000000005,493.94,-277.49,2.68
+Prednisone,"Epicondylitis, Tennis Elbow",1.0,2.0,-76.0,3.65,3.83,493.94,-277.49,2.68
+Prednisone,Gouty Arthritis,9.481481481481481,39.2962962962963,-76.0,3.65,3.83,493.94,-277.49,2.68
+Prednisone,Immunosuppression,8.0,20.666666666666668,-76.0,3.65,3.83,493.94,-277.49,2.68
+Prednisone,Inflammatory Bowel Disease,6.0,13.5,-76.0,3.65,3.83,493.94,-277.49,2.68
+Prednisone,Inflammatory Conditions,7.88135593220339,45.355932203389834,-76.0,3.65,3.83,493.94,-277.49,2.68
+Prednisone,Leukemia,9.0,11.0,-76.0,3.65,3.83,493.94,-277.49,2.68
+Prednisone,Lichen Planus,9.333333333333334,13.0,-76.0,3.65,3.83,493.94,-277.49,2.68
+Prednisone,Lichen Sclerosus,9.0,25.0,-76.0,3.65,3.83,493.94,-277.49,2.68
+Prednisone,Lymphoma,4.0,12.0,-76.0,3.65,3.83,493.94,-277.49,2.68
+Prednisone,Mixed Connective Tissue Disease,8.5,6.5,-76.0,3.65,3.83,493.94,-277.49,2.68
+Prednisone,Nephrotic Syndrome,6.0,3.0,-76.0,3.65,3.83,493.94,-277.49,2.68
+Prednisone,Not Listed / Othe,9.0,1.0,-76.0,3.65,3.83,493.94,-277.49,2.68
+Prednisone,Osteoarthritis,9.75,5.25,-76.0,3.65,3.83,493.94,-277.49,2.68
+Prednisone,Pemphigus,10.0,1.0,-76.0,3.65,3.83,493.94,-277.49,2.68
+Prednisone,Pharyngitis,8.625,17.125,-76.0,3.65,3.83,493.94,-277.49,2.68
+Prednisone,Psoriasis,10.0,9.0,-76.0,3.65,3.83,493.94,-277.49,2.68
+Prednisone,Psoriatic Arthritis,4.5,13.0,-76.0,3.65,3.83,493.94,-277.49,2.68
+Prednisone,Rheumatoid Arthritis,7.75,71.5,-76.0,3.65,3.83,493.94,-277.49,2.68
+Prednisone,Sarcoidosis,7.5,14.5,-76.0,3.65,3.83,493.94,-277.49,2.68
+Prednisone,Sinusitis,6.875,42.625,-76.0,3.65,3.83,493.94,-277.49,2.68
+Prednisone,Skin Rash,7.0,27.0,-76.0,3.6500000000000004,3.83,493.94,-277.49,2.68
+Prednisone,Systemic Lupus Erythematosus,6.0,13.666666666666666,-76.0,3.65,3.83,493.94,-277.49,2.68
+Prednisone,Systemic Sclerosis,4.0,2.0,-76.0,3.65,3.83,493.94,-277.49,2.68
+Prednisone,Ulcerative Colitis,6.777777777777778,18.88888888888889,-76.0,3.6500000000000004,3.83,493.94,-277.49,2.68
+Prednisone,ibromyalgia,8.45,39.25,-76.0,3.65,3.8299999999999996,493.93999999999994,-277.49,2.68
+Pregabalin,Dercum's Disease,9.0,2.0,-70.0,4.07,3.38,3066.0,-196.99,3.0
+Pregabalin,Diabetic Peripheral Neuropathy,6.4,46.714285714285715,-70.0,4.07,3.38,3066.0,-196.99,3.0
+Pregabalin,Epilepsy,6.0,24.0,-70.0,4.07,3.38,3066.0,-196.99,3.0
+Pregabalin,Generalized Anxiety Disorde,8.277310924369749,59.016806722689076,-70.0,4.07,3.38,3066.0,-196.99,3.0
+Pregabalin,Migraine Prevention,8.25,28.375,-70.0,4.07,3.38,3066.0,-196.99,3.0
+Pregabalin,Neuralgia,8.035714285714286,37.57142857142857,-70.0,4.07,3.38,3066.0,-196.99,3.0
+Pregabalin,Neuropathic Pain,6.520833333333333,41.052083333333336,-70.0,4.07,3.3800000000000003,3066.0,-196.99,3.0
+Pregabalin,Not Listed / Othe,9.5,1.5,-70.0,4.07,3.38,3066.0,-196.99,3.0
+Pregabalin,Pain,7.6875,40.8,-70.0,4.07,3.38,3066.0,-196.99,3.0
+Pregabalin,Peripheral Neuropathy,7.6,18.933333333333334,-70.0,4.07,3.38,3066.0,-196.99000000000004,3.0
+Pregabalin,Postherpetic Neuralgia,6.545454545454546,34.27272727272727,-70.0,4.07,3.38,3066.0,-196.99000000000004,3.0
+Pregabalin,Reflex Sympathetic Dystrophy Syndrome,7.363636363636363,12.090909090909092,-70.0,4.07,3.38,3066.0,-196.99000000000004,3.0
+Pregabalin,Restless Legs Syndrome,9.333333333333334,16.333333333333332,-70.0,4.07,3.3800000000000003,3066.0,-196.99,3.0
+Pregabalin,ibromyalgia,6.495283018867925,49.193396226415096,-70.0,4.07,3.38,3066.0,-196.99,3.0
+Propranolol,Anxiety,7.98936170212766,38.56382978723404,-90.0,4.26,3.3299999999999996,99.89,-60.64,2.9200000000000004
+Propranolol,Arrhythmia,4.333333333333333,7.666666666666667,-90.0,4.26,3.33,99.89,-60.64000000000001,2.92
+Propranolol,Benign Essential Trem,6.931034482758621,36.172413793103445,-90.0,4.26,3.33,99.89,-60.64,2.92
+Propranolol,Heart Attack,10.0,11.0,-90.0,4.26,3.33,99.89,-60.64,2.92
+Propranolol,Hemangioma,10.0,9.0,-90.0,4.26,3.33,99.89,-60.64,2.92
+Propranolol,High Blood Pressure,6.571428571428571,29.642857142857142,-90.0,4.26,3.3300000000000005,99.89,-60.64,2.9199999999999995
+Propranolol,Migraine Prevention,7.650943396226415,29.339622641509433,-90.0,4.26,3.33,99.89,-60.64,2.92
+Propranolol,Mitral Valve Prolapse,6.333333333333333,5.333333333333333,-90.0,4.26,3.33,99.89,-60.64000000000001,2.92
+Propranolol,Not Listed / Othe,9.5,13.0,-90.0,4.26,3.33,99.89,-60.64,2.92
+Propranolol,Panic Disorde,8.117647058823529,27.764705882352942,-90.0,4.26,3.33,99.89,-60.64000000000001,2.92
+Propranolol,Pe,8.4,75.2,-90.0,4.26,3.3299999999999996,99.89,-60.64,2.92
+Propranolol,Portal Hypertension,10.0,6.0,-90.0,4.26,3.33,99.89,-60.64,2.92
+Propranolol,Thyrotoxicosis,10.0,12.0,-90.0,4.26,3.33,99.89,-60.64,2.92
+Propranolol,Ventricular Tachycardia,7.333333333333333,8.333333333333334,-90.0,4.26,3.33,99.89,-60.64000000000001,2.92
+Propranolol,mance Anxiety,9.67379679144385,36.20320855614973,-90.0,4.26,3.33,99.89,-60.64,2.92
+Protriptyline,Depression,9.0,1.0,-138.0,4.62,3.48,9.5,-156.99,3.56
+Pseudoephedrine,Nasal Congestion,6.862068965517241,20.06896551724138,-16.0,4.45,3.55,2.0,-18.99,3.54
+Pseudoephedrine,Not Listed / Othe,10.0,9.0,-16.0,4.45,3.55,2.0,-18.99,3.54
+Quinapril,High Blood Pressure,5.666666666666667,9.333333333333334,-32.0,4.24,3.8699999999999997,27.08,-44.34,3.32
+Rabeprazole,Barrett's Esophagus,8.5,23.5,-22.0,4.51,3.95,161.0,-293.99,3.8
+Rabeprazole,Duodenal Ulce,9.0,21.0,-22.0,4.51,3.95,161.0,-293.99,3.8
+Rabeprazole,Erosive Esophagitis,8.2,18.4,-22.0,4.51,3.95,161.0,-293.99,3.8
+Rabeprazole,GERD,8.304347826086957,20.565217391304348,-22.0,4.51,3.95,161.0,-293.99,3.8
+Rabeprazole,Helicobacter Pylori Infection,9.5,12.75,-22.0,4.51,3.95,161.0,-293.99,3.8
+Rabeprazole,Stomach Ulce,10.0,11.0,-22.0,4.51,3.9500000000000006,161.0,-293.99,3.7999999999999994
+Ramipril,Cardiovascular Risk Reduction,7.5,18.0,-72.0,4.43,3.92,156.0,-54.99,3.5
+Ramipril,Diabetic Kidney Disease,5.5,41.0,-72.0,4.43,3.92,156.0,-54.99,3.5
+Ramipril,Heart Attack,9.0,26.5,-72.0,4.43,3.92,156.0,-54.99,3.5
+Ramipril,Heart Failure,6.0,42.5,-72.0,4.43,3.92,156.0,-54.99,3.5
+Ramipril,High Blood Pressure,6.4411764705882355,41.73529411764706,-72.0,4.43,3.92,156.0,-54.99,3.5
+Ranitidine,Duodenal Ulce,7.0,27.0,-36.0,4.38,3.54,35.67,-23.62,3.26
+Ranitidine,Eczema,10.0,44.0,-36.0,4.38,3.54,35.67,-23.62,3.26
+Ranitidine,Erosive Esophagitis,10.0,43.666666666666664,-36.0,4.38,3.5400000000000005,35.67,-23.62,3.26
+Ranitidine,GERD,7.945945945945946,34.270270270270274,-36.0,4.38,3.5399999999999996,35.67,-23.62,3.26
+Ranitidine,Gastric Ulcer Maintenance Treatment,10.0,38.0,-36.0,4.38,3.54,35.67,-23.62,3.26
+Ranitidine,Indigestion,8.0,18.125,-36.0,4.38,3.54,35.67,-23.62,3.26
+Ranitidine,Not Listed / Othe,10.0,21.0,-36.0,4.38,3.54,35.67,-23.62,3.26
+Ranitidine,Pathological Hypersecretory Conditions,8.0,7.0,-36.0,4.38,3.54,35.67,-23.62,3.26
+Ranitidine,Stomach Ulce,9.0,6.5,-36.0,4.38,3.54,35.67,-23.62,3.26
+Retapamulin,Acne,8.0,4.0,-6.0,4.1,3.94,14.5,-363.99,3.9
+Retapamulin,Impetig,7.8,7.6,-6.0,4.1,3.94,14.5,-363.99,3.9
+Risperidone,Agitation,2.0,7.5,-190.0,3.28,2.7,216.75,-39.49,2.21
+Risperidone,Anxiety,6.0476190476190474,37.04761904761905,-190.0,3.28,2.7,216.75,-39.49,2.21
+Risperidone,Asperger Syndrome,5.2,15.0,-190.0,3.28,2.7,216.75,-39.49,2.21
+Risperidone,Autism,6.333333333333333,60.2,-190.0,3.28,2.7,216.75,-39.49,2.21
+Risperidone,Bipolar Disorde,6.333333333333333,28.82608695652174,-190.0,3.28,2.7,216.75,-39.49,2.21
+Risperidone,Borderline Personality Disorde,6.625,21.875,-190.0,3.28,2.7,216.75,-39.49,2.21
+Risperidone,Depression,6.470588235294118,35.529411764705884,-190.0,3.28,2.7,216.75,-39.49,2.21
+Risperidone,Head Injury,6.0,17.5,-190.0,3.28,2.7,216.75,-39.49,2.21
+Risperidone,Mania,9.0,23.0,-190.0,3.28,2.7,216.75,-39.49,2.21
+Risperidone,Paranoid Disorde,2.2,8.2,-190.0,3.28,2.7,216.75,-39.49,2.21
+Risperidone,Post Traumatic Stress Disorde,6.857142857142857,22.428571428571427,-190.0,3.28,2.7,216.75,-39.49,2.21
+Risperidone,Schizoaffective Disorde,6.473684210526316,17.94736842105263,-190.0,3.28,2.7,216.75,-39.49,2.21
+Risperidone,Schizophrenia,5.641025641025641,21.384615384615383,-190.0,3.28,2.7,216.75,-39.49,2.21
+Risperidone,Severe Mood Dysregulation,8.0,33.0,-190.0,3.28,2.7,216.75,-39.49,2.21
+Risperidone,Social Anxiety Disorde,9.0,47.333333333333336,-190.0,3.28,2.7000000000000006,216.75,-39.49,2.21
+Risperidone,Tic Disorde,8.5,20.5,-190.0,3.28,2.7,216.75,-39.49,2.21
+Rosuvastatin,Atherosclerosis,8.5,31.25,-38.0,4.04,3.23,402.0,-195.89,2.56
+Rosuvastatin,High Cholesterol,6.48,63.44,-38.0,4.04,3.23,402.0,-195.89,2.56
+Rosuvastatin,"High Cholesterol, Familial Heterozygous",10.0,35.5,-38.0,4.04,3.23,402.0,-195.89,2.56
+Rosuvastatin,"High Cholesterol, Familial Homozygous",10.0,4.0,-38.0,4.04,3.23,402.0,-195.89,2.56
+Rosuvastatin,Prevention of Cardiovascular Disease,6.0,20.0,-38.0,4.04,3.23,402.0,-195.89,2.56
+Simvastatin,Cardiovascular Risk Reduction,1.0,5.0,-68.0,3.82,3.1,806.0,-28.99,2.24
+Simvastatin,High Cholesterol,4.716666666666667,46.3,-68.0,3.82,3.1,806.0,-28.99,2.24
+Simvastatin,"High Cholesterol, Familial Heterozygous",7.666666666666667,28.0,-68.0,3.82,3.1,806.0,-28.99,2.24
+Simvastatin,"Hyperlipoproteinemia Type IIa, Elevated LDL",10.0,10.0,-68.0,3.82,3.1,806.0,-28.99,2.24
+Spironolactone,Acne,7.713483146067416,25.146067415730336,-86.0,4.38,3.92,228.5,-23.39,3.38
+Spironolactone,Alopecia,8.214285714285714,79.21428571428571,-86.0,4.38,3.9199999999999995,228.5,-23.390000000000004,3.38
+Spironolactone,Edema,8.4,48.0,-86.0,4.38,3.9200000000000004,228.5,-23.39,3.38
+Spironolactone,Gender Dysphoria,9.0,62.0,-86.0,4.38,3.92,228.5,-23.39,3.38
+Spironolactone,Heart Failure,6.333333333333333,50.666666666666664,-86.0,4.38,3.92,228.5,-23.39,3.3800000000000003
+Spironolactone,High Blood Pressure,5.777777777777778,49.166666666666664,-86.0,4.38,3.92,228.5,-23.39,3.38
+Spironolactone,Hirsutism,7.461538461538462,46.15384615384615,-86.0,4.38,3.92,228.5,-23.39,3.38
+Spironolactone,Hypokalemia,9.0,17.0,-86.0,4.38,3.92,228.5,-23.39,3.38
+Spironolactone,Primary Hyperaldosteronism,9.25,39.0,-86.0,4.38,3.92,228.5,-23.39,3.38
+Spironolactone,Primary Hyperaldosteronism Diagnosis,10.0,7.0,-86.0,4.38,3.92,228.5,-23.39,3.38
+Sucralfate,Duodenal Ulce,9.428571428571429,52.285714285714285,-34.0,3.57,3.98,106.0,-68.99,3.73
+Sucralfate,GERD,7.117647058823529,50.05882352941177,-34.0,3.57,3.98,106.0,-68.99,3.73
+Sucralfate,Not Listed / Othe,8.0,21.0,-34.0,3.57,3.98,106.0,-68.99,3.73
+Sucralfate,Stomach Ulce,6.8,43.0,-34.0,3.5699999999999994,3.9799999999999995,106.0,-68.99,3.7299999999999995
+Sucralfate,Stress Ulcer Prophylaxis,10.0,88.0,-34.0,3.57,3.98,106.0,-68.99,3.73
+Tacrolimus,Atopic Dermatitis,7.12,22.44,-168.0,4.05,4.31,28.5,-232.99,4.31
+Tacrolimus,Crohn's Disease,10.0,1.0,-168.0,4.05,4.31,28.5,-232.99,4.31
+Tacrolimus,"Organ Transplant, Rejection Prophylaxis",8.526315789473685,10.68421052631579,-168.0,4.05,4.31,28.5,-232.99,4.31
+Tacrolimus,Perioral Dermatitis,6.5,4.5,-168.0,4.05,4.31,28.5,-232.99,4.31
+Telmisartan,High Blood Pressure,6.45,43.0,-10.0,3.91,3.78,76.25,-145.67,3.46
+Telmisartan,Prevention of Cardiovascular Disease,6.0,19.0,-10.0,3.91,3.78,76.25,-145.67,3.46
+Terazosin,Benign Prostatic Hyperplasia,7.1875,30.0625,-6.0,4.0,3.34,97.0,-68.89,3.0
+Terazosin,High Blood Pressure,7.0,36.4,-6.0,4.0,3.34,97.0,-68.89,3.0
+Terazosin,Hyperhidrosis,8.333333333333334,35.333333333333336,-6.0,4.0,3.34,97.0,-68.89,3.0
+Timolol,"Glaucoma, Open Angle",8.333333333333334,2.0,-74.0,3.0,3.0,2.0,-12.99,3.0
+Tioconazole,Vaginal Yeast Infection,4.477337110481586,5.8441926345609065,-2.0,3.85,2.02,145.0,-22.99,1.83
+Tolmetin,"Gout, Acute",8.0,1.0,-56.0,3.0,3.0,3.0,-42.16,3.0
+Tolmetin,Rheumatoid Arthritis,9.0,1.0,-56.0,3.0,3.0,3.0,-42.16,3.0
+Torsemide,Edema,10.0,25.5,-258.0,3.55,3.51,29.0,-25.99,2.88
+Torsemide,High Blood Pressure,4.0,1.0,-258.0,3.55,3.51,29.0,-25.99,2.88
+Tramadol,Anxiety,9.454545454545455,64.27272727272727,-290.0,4.24,3.2,154.5,-26.89,3.02
+Tramadol,Back Pain,6.703703703703703,39.30555555555556,-290.0,4.24,3.2,154.5,-26.89,3.02
+Tramadol,Chronic Pain,6.158415841584159,28.475247524752476,-290.0,4.24,3.2000000000000006,154.5,-26.889999999999997,3.02
+Tramadol,Depression,9.288461538461538,73.8076923076923,-290.0,4.24,3.2,154.5,-26.89,3.02
+Tramadol,Not Listed / Othe,8.25,6.25,-290.0,4.24,3.2,154.5,-26.89,3.02
+Tramadol,Obsessive Compulsive Disorde,9.0,58.0,-290.0,4.24,3.2,154.5,-26.89,3.02
+Tramadol,Opiate Withdrawal,10.0,25.0,-290.0,4.24,3.2,154.5,-26.89,3.02
+Tramadol,Pain,6.509803921568627,27.753501400560225,-290.0,4.24,3.2,154.5,-26.889999999999997,3.0200000000000005
+Tramadol,Restless Legs Syndrome,8.576923076923077,30.307692307692307,-290.0,4.24,3.2,154.5,-26.89,3.02
+Tramadol,Rheumatoid Arthritis,9.375,44.125,-290.0,4.24,3.2,154.5,-26.89,3.02
+Tramadol,Vulvodynia,8.75,21.25,-290.0,4.24,3.2,154.5,-26.89,3.02
+Tramadol,ibromyalgia,7.395604395604396,45.879120879120876,-290.0,4.24,3.1999999999999997,154.5,-26.890000000000004,3.02
+Trandolapril,Heart Failure,2.0,10.0,-42.0,4.39,4.11,18.5,-105.99,3.76
+Triamcinolone,Allergic Reactions,9.666666666666666,3.3333333333333335,-44.0,2.67,2.82,29.62,-212.39,2.66
+Triamcinolone,Allergic Rhinitis,6.651162790697675,13.790697674418604,-44.0,2.67,2.82,29.62,-212.38999999999996,2.66
+Triamcinolone,Alopecia,8.666666666666666,34.111111111111114,-44.0,2.67,2.82,29.619999999999997,-212.39,2.66
+Triamcinolone,Aphthous Ulce,10.0,26.0,-44.0,2.67,2.82,29.62,-212.39,2.66
+Triamcinolone,Asthma,9.5,2.0,-44.0,2.67,2.82,29.62,-212.39,2.66
+Triamcinolone,Atopic Dermatitis,9.25,19.125,-44.0,2.67,2.82,29.62,-212.39,2.66
+Triamcinolone,Dermatitis,9.928571428571429,21.571428571428573,-44.0,2.6699999999999995,2.82,29.62,-212.39000000000001,2.66
+Triamcinolone,Eczema,10.0,14.0,-44.0,2.67,2.82,29.62,-212.39,2.66
+Triamcinolone,Gouty Arthritis,10.0,2.0,-44.0,2.67,2.82,29.62,-212.39,2.66
+Triamcinolone,Iritis,10.0,1.0,-44.0,2.67,2.82,29.62,-212.39,2.66
+Triamcinolone,Lichen Planus,3.5,9.0,-44.0,2.67,2.82,29.62,-212.39,2.66
+Triamcinolone,Neuritis,7.0,2.0,-44.0,2.67,2.82,29.62,-212.39,2.66
+Triamcinolone,Not Listed / Othe,5.0,2.0,-44.0,2.67,2.82,29.62,-212.39,2.66
+Triamcinolone,Osteoarthritis,5.714285714285714,3.2857142857142856,-44.0,2.6699999999999995,2.82,29.62,-212.39000000000001,2.66
+Triamcinolone,Pityriasis rubra pilaris,10.0,3.0,-44.0,2.67,2.82,29.62,-212.39,2.66
+Triamcinolone,Psoriasis,7.75,10.25,-44.0,2.67,2.82,29.62,-212.39,2.66
+Triamcinolone,Rheumatoid Arthritis,10.0,21.0,-44.0,2.67,2.82,29.62,-212.39,2.66
+Triamcinolone,Sarcoidosis,8.0,6.0,-44.0,2.67,2.82,29.62,-212.39,2.66
+Triamcinolone,Systemic Lupus Erythematosus,10.0,14.0,-44.0,2.67,2.82,29.62,-212.39,2.66
+Triamterene,Edema,6.2,30.0,-134.0,2.93,2.85,21.0,-65.12,1.8199999999999998
+Trimethoprim,Bladder Infection,3.0,14.333333333333334,-96.0,3.4,4.2,11.25,-18.89,2.5
+Trimethoprim,Urinary Tract Infection,2.6,3.0,-96.0,3.4,4.2,11.25,-18.89,2.5
+Triptorelin,Prostate Cance,8.5,12.5,-4.0,3.58,3.89,3.12,-2927.99,2.47
+Valacyclovir,CMV Prophylaxis,7.0,2.0,-4.0,4.38,4.12,248.0,-222.79,3.88
+Valacyclovir,Cold Sores,9.20945945945946,18.486486486486488,-4.0,4.38,4.12,248.0,-222.79,3.88
+Valacyclovir,"Herpes Simplex, Mucocutaneous/Immunocompetent Host",9.75,17.5,-4.0,4.38,4.12,248.0,-222.79,3.88
+Valacyclovir,"Herpes Simplex, Mucocutaneous/Immunocompromised Host",10.0,30.5,-4.0,4.38,4.12,248.0,-222.79,3.88
+Valacyclovir,"Herpes Simplex, Suppression",8.53623188405797,33.63768115942029,-4.0,4.38,4.12,248.0,-222.79,3.8799999999999994
+Valacyclovir,Herpes Zoste,8.142857142857142,13.0,-4.0,4.38,4.12,248.0,-222.79,3.88
+Valacyclovir,Multiple Sclerosis,9.5,12.5,-4.0,4.38,4.12,248.0,-222.79,3.88
+Valacyclovir,Ramsay Hunt Syndrome,8.0,1.0,-4.0,4.38,4.12,248.0,-222.79,3.88
+Valacyclovir,Varicella-Zoste,8.666666666666666,24.0,-4.0,4.38,4.12,248.0,-222.79,3.8800000000000003
+Valsartan,High Blood Pressure,5.7727272727272725,47.40909090909091,-238.0,4.08,3.58,444.25,-168.99,3.06
+Valsartan,Left Ventricular Dysfunction,9.5,29.0,-238.0,4.08,3.58,444.25,-168.99,3.06
+Verapamil,Arrhythmia,4.6,10.8,-210.0,4.71,4.13,42.33,-124.35999999999999,4.03
+Verapamil,Cluster Headaches,9.025641025641026,21.743589743589745,-210.0,4.71,4.13,42.33,-124.36,4.03
+Verapamil,High Blood Pressure,6.25,20.5,-210.0,4.71,4.13,42.33,-124.36,4.03
+Verapamil,Migraine Prevention,8.233333333333333,42.0,-210.0,4.71,4.13,42.33,-124.36,4.03
+Verapamil,Supraventricular Tachycardia,8.0,14.75,-210.0,4.71,4.13,42.33,-124.36,4.03
